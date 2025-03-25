@@ -79,24 +79,4 @@ GlobeRouter permite planificarea călătoriilor între două locații geografice
 
 ---
 
-## 🚀 Te interesează MVP-ul?
-
-Recomandăm pentru început un MVP (Minimum Viable Product) cu:
-- Căutare rută simplă (fără combinații)
-- Filtru după preț
-- Vizualizare pe hartă
-- Interfață simplă pentru detalii rută
-
----
-
-## 🛠️ Tehnologii recomandate
-
-- **Frontend**: React + Leaflet / Mapbox
-- **Backend**: Python (FastAPI) / Node.js
-- **Bază de date**: PostgreSQL + PostGIS
-- **Autentificare**: Firebase Auth / OAuth 2.0
-- **API-uri**: Skyscanner, Flixbus, Transport API
-
----
-
 ## 📌 Status: În dezvoltare 🚧
