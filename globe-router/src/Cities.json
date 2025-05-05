@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Bucharest",
+      "country": "Romania",
+      "lat": 44.4268,
+      "lng": 26.1025
+    },
+    {
+      "name": "London",
+      "country": "United Kingdom",
+      "lat": 51.5072,
+      "lng": -0.1276
+    },
+    {
+      "name": "Vienna",
+      "country": "Austria",
+      "lat": 48.2082,
+      "lng": 16.3738
+    },
+    {
+      "name": "Berlin",
+      "country": "Germany",
+      "lat": 52.5200,
+      "lng": 13.4050
+    },
+    {
+      "name": "Paris",
+      "country": "France",
+      "lat": 48.8566,
+      "lng": 2.3522
+    }
+  ]
+  
