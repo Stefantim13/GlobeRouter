@@ -1,28 +1,32 @@
 package main
 
 import (
-  "github.com/gin-gonic/gin"
+	"database/sql"
+	"github.com/gin-gonic/gin"
+	"log"
 )
 
 var config Config
 
 func main() {
-  config.db = initDB()
-  defer config.db.Close()
+	config.db = initDB()
+	defer func(db *sql.DB) {
+		err := db.Close()
+		if err != nil {
+			log.Fatal(err)
+		}
+	}(config.db)
 
-  r := gin.New()
-  r.Use(gin.Logger())
+	r := gin.New()
+	r.Use(gin.Logger())
 
-  r.GET("/", homeEndpoint)
-  r.POST("/login", loginEndpointPost)
-  r.POST("/signup", signupEndpointPost)
-  r.GET("/routes", routesEndpoint)
-  r.GET("/routes/:location", locationEndpoint)
+	r.POST("/login", loginEndpointPost)
+	r.POST("/signup", signupEndpointPost)
+	r.GET("/routes", routesEndpoint)
+	r.GET("/routes/:id", savedRoutesEndpoint)
 
-  admin := r.Group("/")
-  admin.Use(adminRequired())
-  {
-    admin.GET("/admin", adminEndpoint)
-  }
-  r.Run()
+	err := r.Run()
+	if err != nil {
+		log.Fatal(err)
+	}
 }
