@@ -22,8 +22,9 @@ func main() {
 
 	r.POST("/login", loginEndpointPost)
 	r.POST("/signup", signupEndpointPost)
-	r.GET("/routes", routesEndpoint)
-	r.GET("/routes/:id", savedRoutesEndpoint)
+	r.GET("/routes/:from/:to", routesEndpoint)
+	r.POST("/routes/:from/:to", saveTravelEndpoint)
+	r.GET("/:id", savedTravelsEndpoint)
 
 	err := r.Run()
 	if err != nil {

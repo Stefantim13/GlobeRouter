@@ -81,34 +81,35 @@ func signupEndpointPost(c *gin.Context) {
 }
 
 func routesEndpoint(c *gin.Context) {
-	row, err := config.db.Query("SELECT * FROM routes")
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer func(row *sql.Rows) {
-		err := row.Close()
-		if err != nil {
-			log.Fatal(err)
-		}
-	}(row)
-
-	var routes []Route
-	for row.Next() {
-		route := Route{}
-		err := row.Scan(&route.cost, &route.departure, &route.arrival)
-		if err != nil {
-			log.Fatal(err)
-		}
-		routes = append(routes, route)
-	}
+	from, to := c.Query("from"), c.Query("to")
+	routes := getRoutes()
+	travels := getTravels(routes, from, to)
 	c.JSON(http.StatusOK, gin.H{
-		"routes": routes,
+		"travels": travels,
 	})
 }
 
-func savedRoutesEndpoint(c *gin.Context) {
+func saveTravelEndpoint(c *gin.Context) {
+	uid, cities, totalCost, duration := c.Query("id"), c.Query("cities"), c.Query("totalCost"), c.Query("duration")
+	result, err := config.db.Exec("INSERT INTO travels(cities, totalCost, duration) VALUES(?, ?, ?)", cities, totalCost, duration)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	tid, err := result.LastInsertId()
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	_, err = config.db.Exec("INSERT INTO savedTravels(tid, uid) VALUES(?, ?)", tid, uid)
+	if err != nil {
+		log.Fatal(err)
+	}
+}
+
+func savedTravelsEndpoint(c *gin.Context) {
 	id := c.Query("id")
-	row, err := config.db.Query("SELECT * FROM routes r, savedRoutes sr WHERE r.id == sr.rid AND sr.uid == ?", id)
+	row, err := config.db.Query("SELECT * FROM travels t, savedTravels ts WHERE t.id == st.tid AND st.uid == ?", id)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -119,16 +120,16 @@ func savedRoutesEndpoint(c *gin.Context) {
 		}
 	}(row)
 
-	var routes []Route
+	var travels []Travel
 	for row.Next() {
-		route := Route{}
-		err := row.Scan(&route.cost, &route.departure, &route.arrival)
+		travel := Travel{}
+		err := row.Scan(&travel.cities, &travel.totalCost, &travel.duration)
 		if err != nil {
 			log.Fatal(err)
 		}
-		routes = append(routes, route)
+		travels = append(travels, travel)
 	}
 	c.JSON(http.StatusOK, gin.H{
-		"routes": routes,
+		"travels": travels,
 	})
 }

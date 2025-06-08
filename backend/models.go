@@ -17,3 +17,8 @@ type User struct {
 type Route struct {
 	departure, arrival, cost int
 }
+
+type Travel struct {
+	cities              []string
+	totalCost, duration int
+}
