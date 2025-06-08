@@ -14,6 +14,7 @@ function RoutePlanner() {
   const [results, setResults] = useState([]);
 
   const [sortOption, setSortOption] = useState('');
+  const [savedRoutes, setSavedRoutes] = useState([]);
 
   const getTodayISO = () => {
     const today = new Date();
@@ -44,7 +45,7 @@ function RoutePlanner() {
       return;
     }
 
-    if(from == to){
+    if(from === to){
       setGeneralError('Nu ai cum sa calatoresti in aceeasi locatie');
       return;
     }
@@ -90,6 +91,16 @@ function RoutePlanner() {
     }));
 
     setResults(simulatedRoutes);
+  };
+
+  const toggleBookmark = (routeIndex) => {
+    setSavedRoutes((prev) => {
+      if (prev.includes(routeIndex)) {
+        return prev.filter((idx) => idx !== routeIndex);
+      } else {
+        return [...prev, routeIndex];
+      }
+    });
   };
 
   return (
@@ -153,8 +164,7 @@ function RoutePlanner() {
           </ul>
         )}
         {toError && <p style={styles.error}>{toError}</p>}
-
-        <input
+        <input 
           type="date"
           value={travelDate}
           min={getTodayISO()}
@@ -176,9 +186,21 @@ function RoutePlanner() {
       {results.length > 0 && (
         <div style={styles.result}>
           <h3>Rezultate rute:</h3>
+          <hr style={{ margin: '1rem 0' }} />
           {results.map((route, index) => (
-            <div key={index} style={{ marginBottom: '1rem' }}>
-              <p><strong>Traseu:</strong> {route.path.join(' → ')}</p>
+            <div key={index} style={{ marginBottom: '1rem', position: 'relative' }}>
+              <button
+                onClick={() => toggleBookmark(index)}
+                style={{
+                  ...styles.saveButton,
+                  backgroundColor: savedRoutes.includes(index) ? '#ffd700' : '#eee',
+                  color: savedRoutes.includes(index) ? '#333' : '#888',
+                }}
+                aria-label={savedRoutes.includes(index) ? 'Anulează salvarea' : 'Salvează ruta'}
+              >
+                {savedRoutes.includes(index) ? '★' : '☆'}
+              </button>
+              <p style={{paddingRight: '2.5rem'}}><strong>Traseu:</strong> {route.path.join(' → ')}</p>
               <p><strong>Preț:</strong> €{route.price}</p>
               <p><strong>Durată:</strong> {route.duration} ore</p>
               <p><strong>Schimbări:</strong> {route.changes}</p>
@@ -222,6 +244,7 @@ const styles = {
     border: '1px solid #ccc',
     borderRadius: '5px',
   },
+  
   suggestions: {
     listStyle: 'none',
     padding: 0,
@@ -256,6 +279,19 @@ const styles = {
     border: '1px solid #ccc',
     borderRadius: '5px',
     backgroundColor: '#fff',
+  },
+  saveButton: {
+    position: 'absolute',
+    top: '1rem',
+    right: '1rem',
+    border: 'none',
+    borderRadius: '4px',
+    padding: '0.5rem 1rem',
+    cursor: 'pointer',
+    fontSize: '1.3rem',
+    backgroundColor: '#eee', 
+    color: '#888', 
+    zIndex: 2,
   },
 };
 
