@@ -1,0 +1,1712 @@
+Cuesmes|Malacky|100|600|5|95
+Cuesmes|Hemsworth|900|1700|8|132
+Cuesmes|Nadvirna|900|1100|2|55
+Cuesmes|Villacarrillo|700|1200|5|71
+Cuesmes|Dar El Kebdani|1200|1400|2|118
+Cuesmes|Barendrecht|2200|600|8|127
+Cuesmes|Tyldesley|300|1100|8|46
+Cuesmes|Guarda|2100|0|3|54
+Cuesmes|Buguruslan|200|400|2|112
+Cuesmes|Station des Essais M.V.A.|1700|200|9|90
+Cuesmes|Hlevakha|2000|100|5|141
+Cuesmes|Mannheim|1500|0|9|64
+Cuesmes|Siniscola|700|1600|9|149
+Cuesmes|Nowy Sącz|100|900|8|102
+Cuesmes|Ringwood|400|600|2|77
+Cuesmes|Odivelas|200|400|2|50
+Cuesmes|Azzano|400|900|5|51
+Cuesmes|Saint Helens|0|800|8|64
+Cuesmes|Broadstairs|1500|1700|2|82
+Cuesmes|Havran|1500|0|9|71
+Cuesmes|Sovicille|2300|300|4|33
+Cuesmes|Wronki|2300|800|9|44
+Cuesmes|Weilheim an der Teck|100|300|2|109
+Cuesmes|Neman|100|600|5|128
+Cuesmes|Borås|400|1100|7|140
+Cuesmes|Lomma|400|600|2|140
+Cuesmes|Impruneta|100|900|8|91
+Cuesmes|Kettering|1300|1800|5|145
+Cuesmes|Kinel’-Cherkassy|600|1100|5|60
+Cuesmes|Tonyrefail|500|1200|7|36
+Cuesmes|Goldenstedt|2100|200|5|101
+Cuesmes|Mühlacker|1200|1800|6|117
+Cuesmes|Wezep|1100|1700|6|78
+Cuesmes|Gelves|0|700|7|141
+Cuesmes|Bad Breisig|900|1200|3|127
+Trofarello|Cuesmes|200|1100|9|101
+Trofarello|Malacky|1000|1800|8|113
+Trofarello|Nadvirna|200|900|7|52
+Trofarello|Allschwil|700|900|2|123
+Trofarello|Toftir|500|1300|8|92
+Trofarello|Ugol’nyye Kopi|1000|1700|7|115
+Trofarello|Villacarrillo|2300|600|7|99
+Trofarello|Dar El Kebdani|900|1600|7|129
+Trofarello|Barendrecht|500|1400|9|96
+Trofarello|Vanadzor|2200|200|4|144
+Trofarello|Seevetal|400|1200|8|149
+Trofarello|Guarda|700|1400|7|49
+Trofarello|Dzerzhinsk|1300|1900|6|146
+Trofarello|Český Těšín|700|900|2|142
+Trofarello|Zacháro|2200|200|4|109
+Trofarello|Buguruslan|400|1300|9|71
+Trofarello|Siniscola|400|600|2|59
+Trofarello|Ringwood|600|1300|7|46
+Trofarello|Odivelas|600|1300|7|140
+Trofarello|Azzano|1600|100|9|110
+Trofarello|Saint Helens|1400|2200|8|130
+Trofarello|Havran|1500|2100|6|122
+Trofarello|Sovicille|2100|200|5|66
+Trofarello|Weilheim an der Teck|1800|300|9|100
+Trofarello|Saint Andrews|200|700|5|105
+Trofarello|Neman|1800|300|9|72
+Trofarello|Borås|1300|1500|2|91
+Trofarello|Lomma|1300|1600|3|85
+Trofarello|Sande|1300|1700|4|117
+Trofarello|Tonyrefail|1200|1800|6|141
+Trofarello|Goldenstedt|1800|200|8|109
+Trofarello|Mühlacker|700|900|2|121
+Trofarello|Wezep|700|1000|3|33
+Trofarello|Gelves|900|1400|5|95
+Trofarello|Atkarsk|700|1500|8|69
+Malacky|Trofarello|2000|300|7|56
+Malacky|Toftir|1000|1500|5|118
+Malacky|Villacarrillo|2000|200|6|82
+Malacky|Dar El Kebdani|1000|1500|5|44
+Malacky|Barendrecht|2300|500|6|59
+Malacky|Saint-Gilles|2100|600|9|49
+Malacky|Tyldesley|700|1000|3|110
+Malacky|Guarda|1500|2000|5|40
+Malacky|Dzerzhinsk|700|1400|7|81
+Malacky|Český Těšín|400|1000|6|84
+Malacky|Zacháro|100|900|8|62
+Malacky|Buguruslan|1300|1600|3|104
+Malacky|Ust’-Olenëk|2000|400|8|45
+Malacky|Hlevakha|300|700|4|108
+Malacky|Nowy Sącz|1000|1200|2|144
+Malacky|Ringwood|1400|2300|9|90
+Malacky|Odivelas|200|900|7|50
+Malacky|Azzano|800|1300|5|129
+Malacky|Broadstairs|800|1300|5|127
+Malacky|Havran|200|600|4|123
+Malacky|Wronki|600|1400|8|41
+Malacky|Saint Andrews|2100|300|6|44
+Malacky|Neman|2000|2200|2|61
+Malacky|Borås|800|1300|5|91
+Malacky|Lomma|200|900|7|64
+Malacky|Sande|1200|1500|3|48
+Malacky|Impruneta|1900|2200|3|69
+Malacky|Kettering|500|800|3|31
+Malacky|Tonyrefail|100|600|5|147
+Malacky|Goldenstedt|400|1100|7|112
+Malacky|Mühlacker|2200|0|2|43
+Malacky|Wezep|1400|2000|6|122
+Malacky|Gelves|1900|2100|2|144
+Malacky|Atkarsk|200|1000|8|109
+Malacky|Bad Breisig|300|800|5|77
+Hemsworth|Cuesmes|1300|2000|7|95
+Hemsworth|Trofarello|100|900|8|127
+Hemsworth|Malacky|100|400|3|92
+Hemsworth|Nadvirna|1200|1400|2|60
+Hemsworth|Allschwil|2200|100|3|73
+Hemsworth|Toftir|500|1100|6|113
+Hemsworth|Villacarrillo|1800|100|7|149
+Hemsworth|Dar El Kebdani|1900|2200|3|94
+Hemsworth|Barendrecht|1500|2300|8|110
+Hemsworth|Saint-Gilles|1100|1600|5|78
+Hemsworth|Tyldesley|1700|2200|5|96
+Hemsworth|Seevetal|2100|600|9|123
+Hemsworth|Guarda|100|300|2|145
+Hemsworth|Dzerzhinsk|1100|1700|6|62
+Hemsworth|Český Těšín|2100|0|3|61
+Hemsworth|Ust’-Olenëk|1700|2100|4|39
+Hemsworth|Station des Essais M.V.A.|1100|1800|7|148
+Hemsworth|Hlevakha|1200|1500|3|42
+Hemsworth|Mannheim|800|1700|9|118
+Hemsworth|Siniscola|700|900|2|107
+Hemsworth|Nowy Sącz|1900|300|8|45
+Hemsworth|Ringwood|1900|400|9|116
+Hemsworth|Azzano|900|1800|9|73
+Hemsworth|Saint Helens|2200|100|3|123
+Hemsworth|Broadstairs|1600|2300|7|120
+Hemsworth|Wronki|2100|400|7|114
+Hemsworth|Weilheim an der Teck|300|1000|7|86
+Hemsworth|Saint Andrews|1700|2100|4|53
+Hemsworth|Neman|2200|500|7|49
+Hemsworth|Sande|1600|2200|6|62
+Hemsworth|Impruneta|1200|1800|6|121
+Hemsworth|Kinel’-Cherkassy|400|600|2|46
+Hemsworth|Tonyrefail|700|1500|8|55
+Hemsworth|Goldenstedt|0|500|5|43
+Hemsworth|Mühlacker|2300|300|4|104
+Hemsworth|Gelves|1200|1800|6|78
+Nadvirna|Cuesmes|1000|1600|6|38
+Nadvirna|Trofarello|2200|600|8|145
+Nadvirna|Malacky|1000|1700|7|50
+Nadvirna|Hemsworth|1500|2100|6|105
+Nadvirna|Allschwil|2100|200|5|136
+Nadvirna|Toftir|800|1300|5|145
+Nadvirna|Dar El Kebdani|1100|1700|6|51
+Nadvirna|Barendrecht|1400|2300|9|78
+Nadvirna|Saint-Gilles|1200|2100|9|127
+Nadvirna|Tyldesley|400|900|5|54
+Nadvirna|Seevetal|100|900|8|70
+Nadvirna|Guarda|700|1100|4|130
+Nadvirna|Dzerzhinsk|1800|2300|5|34
+Nadvirna|Český Těšín|1000|1200|2|143
+Nadvirna|Zacháro|200|400|2|55
+Nadvirna|Buguruslan|600|900|3|73
+Nadvirna|Ust’-Olenëk|1500|2300|8|32
+Nadvirna|Station des Essais M.V.A.|800|1000|2|140
+Nadvirna|Hlevakha|0|500|5|116
+Nadvirna|Ringwood|1000|1400|4|51
+Nadvirna|Odivelas|1000|1300|3|108
+Nadvirna|Azzano|2300|300|4|83
+Nadvirna|Havran|700|1300|6|89
+Nadvirna|Sovicille|500|700|2|70
+Nadvirna|Weilheim an der Teck|1200|1400|2|94
+Nadvirna|Saint Andrews|1800|2300|5|135
+Nadvirna|Neman|400|1300|9|32
+Nadvirna|Lomma|1500|2100|6|89
+Nadvirna|Sande|100|300|2|143
+Nadvirna|Impruneta|1100|1900|8|133
+Nadvirna|Gelves|400|1300|9|32
+Nadvirna|Atkarsk|0|200|2|119
+Nadvirna|Bad Breisig|400|700|3|88
+Allschwil|Cuesmes|1500|1800|3|131
+Allschwil|Malacky|1700|2100|4|147
+Allschwil|Hemsworth|1500|1700|2|114
+Allschwil|Nadvirna|1000|1400|4|39
+Allschwil|Villacarrillo|300|1000|7|141
+Allschwil|Tyldesley|1700|1900|2|55
+Allschwil|Seevetal|1300|2200|9|45
+Allschwil|Dzerzhinsk|1000|1900|9|142
+Allschwil|Český Těšín|1700|200|9|40
+Allschwil|Zacháro|1000|1900|9|143
+Allschwil|Buguruslan|500|800|3|85
+Allschwil|Ust’-Olenëk|2200|500|7|38
+Allschwil|Station des Essais M.V.A.|2000|500|9|74
+Allschwil|Hlevakha|1300|1500|2|50
+Allschwil|Mannheim|1200|1500|3|47
+Allschwil|Siniscola|200|500|3|30
+Allschwil|Ringwood|1700|0|7|39
+Allschwil|Saint Helens|1100|1600|5|65
+Allschwil|Broadstairs|1700|200|9|148
+Allschwil|Sovicille|500|1200|7|138
+Allschwil|Wronki|1300|1600|3|64
+Allschwil|Weilheim an der Teck|700|1200|5|75
+Allschwil|Saint Andrews|2300|600|7|115
+Allschwil|Sande|1100|1800|7|114
+Allschwil|Impruneta|1600|100|9|52
+Allschwil|Kettering|2100|0|3|54
+Allschwil|Tonyrefail|300|500|2|127
+Allschwil|Goldenstedt|1500|2000|5|108
+Allschwil|Wezep|200|800|6|33
+Allschwil|Gelves|1700|200|9|50
+Allschwil|Atkarsk|1400|2100|7|137
+Toftir|Trofarello|2300|200|3|135
+Toftir|Hemsworth|300|1100|8|32
+Toftir|Allschwil|1300|1800|5|132
+Toftir|Ugol’nyye Kopi|1400|2000|6|77
+Toftir|Dar El Kebdani|1900|100|6|79
+Toftir|Barendrecht|300|1200|9|145
+Toftir|Vanadzor|800|1700|9|59
+Toftir|Saint-Gilles|700|1600|9|146
+Toftir|Tyldesley|2000|100|5|41
+Toftir|Seevetal|1400|1600|2|86
+Toftir|Dzerzhinsk|700|1600|9|146
+Toftir|Buguruslan|1800|2300|5|40
+Toftir|Ust’-Olenëk|1500|2200|7|55
+Toftir|Station des Essais M.V.A.|400|600|2|64
+Toftir|Hlevakha|1600|1900|3|109
+Toftir|Mannheim|800|1600|8|149
+Toftir|Siniscola|1700|1900|2|35
+Toftir|Ringwood|1400|2000|6|54
+Toftir|Odivelas|1000|1800|8|92
+Toftir|Saint Helens|900|1800|9|147
+Toftir|Havran|1100|1600|5|40
+Toftir|Sovicille|1600|2300|7|103
+Toftir|Wronki|900|1300|4|94
+Toftir|Weilheim an der Teck|0|500|5|142
+Toftir|Saint Andrews|100|1000|9|108
+Toftir|Neman|1000|1800|8|55
+Toftir|Lomma|1500|2100|6|69
+Toftir|Impruneta|1400|1800|4|97
+Toftir|Kettering|2000|200|6|60
+Toftir|Tonyrefail|1300|2200|9|149
+Toftir|Goldenstedt|900|1200|3|108
+Toftir|Mühlacker|2200|600|8|41
+Toftir|Wezep|400|1200|8|85
+Toftir|Atkarsk|1000|1700|7|117
+Ugol’nyye Kopi|Cuesmes|800|1700|9|43
+Ugol’nyye Kopi|Trofarello|1600|100|9|88
+Ugol’nyye Kopi|Hemsworth|300|800|5|102
+Ugol’nyye Kopi|Toftir|100|1000|9|92
+Ugol’nyye Kopi|Dar El Kebdani|2300|400|5|65
+Ugol’nyye Kopi|Barendrecht|1900|2300|4|67
+Ugol’nyye Kopi|Tyldesley|1500|1800|3|66
+Ugol’nyye Kopi|Seevetal|900|1700|8|55
+Ugol’nyye Kopi|Guarda|1500|2100|6|73
+Ugol’nyye Kopi|Dzerzhinsk|2300|800|9|40
+Ugol’nyye Kopi|Zacháro|200|500|3|112
+Ugol’nyye Kopi|Buguruslan|900|1200|3|92
+Ugol’nyye Kopi|Hlevakha|2300|300|4|116
+Ugol’nyye Kopi|Mannheim|1100|1500|4|120
+Ugol’nyye Kopi|Siniscola|2000|100|5|91
+Ugol’nyye Kopi|Ringwood|2200|400|6|80
+Ugol’nyye Kopi|Odivelas|0|200|2|73
+Ugol’nyye Kopi|Saint Helens|2000|100|5|95
+Ugol’nyye Kopi|Broadstairs|1700|2300|6|100
+Ugol’nyye Kopi|Havran|0|400|4|53
+Ugol’nyye Kopi|Wronki|500|1400|9|31
+Ugol’nyye Kopi|Weilheim an der Teck|600|1300|7|45
+Ugol’nyye Kopi|Saint Andrews|2000|400|8|55
+Ugol’nyye Kopi|Neman|400|700|3|101
+Ugol’nyye Kopi|Borås|800|1200|4|50
+Ugol’nyye Kopi|Sande|2100|200|5|89
+Ugol’nyye Kopi|Kinel’-Cherkassy|1200|2000|8|143
+Ugol’nyye Kopi|Tonyrefail|1300|1500|2|82
+Ugol’nyye Kopi|Goldenstedt|1700|0|7|149
+Ugol’nyye Kopi|Wezep|1500|2200|7|36
+Ugol’nyye Kopi|Atkarsk|1800|0|6|58
+Ugol’nyye Kopi|Bad Breisig|2000|500|9|79
+Villacarrillo|Malacky|1000|1500|5|82
+Villacarrillo|Nadvirna|2100|400|7|53
+Villacarrillo|Allschwil|400|1300|9|42
+Villacarrillo|Toftir|300|1000|7|84
+Villacarrillo|Ugol’nyye Kopi|500|1300|8|91
+Villacarrillo|Barendrecht|2200|300|5|108
+Villacarrillo|Saint-Gilles|500|800|3|109
+Villacarrillo|Tyldesley|800|1100|3|43
+Villacarrillo|Seevetal|1800|100|7|38
+Villacarrillo|Guarda|1000|1500|5|74
+Villacarrillo|Dzerzhinsk|2100|600|9|33
+Villacarrillo|Český Těšín|1400|2300|9|109
+Villacarrillo|Zacháro|2200|500|7|82
+Villacarrillo|Buguruslan|1500|2200|7|107
+Villacarrillo|Ust’-Olenëk|600|900|3|147
+Villacarrillo|Station des Essais M.V.A.|1100|1900|8|110
+Villacarrillo|Hlevakha|700|1500|8|41
+Villacarrillo|Mannheim|1100|2000|9|141
+Villacarrillo|Siniscola|1600|2100|5|65
+Villacarrillo|Nowy Sącz|1800|300|9|48
+Villacarrillo|Odivelas|2300|200|3|112
+Villacarrillo|Azzano|1000|1300|3|73
+Villacarrillo|Saint Helens|1700|200|9|45
+Villacarrillo|Broadstairs|2200|600|8|98
+Villacarrillo|Havran|900|1700|8|121
+Villacarrillo|Sovicille|0|700|7|42
+Villacarrillo|Wronki|900|1400|5|140
+Villacarrillo|Borås|1600|1800|2|51
+Villacarrillo|Sande|2100|0|3|76
+Villacarrillo|Kettering|2100|0|3|43
+Villacarrillo|Kinel’-Cherkassy|2200|0|2|116
+Villacarrillo|Tonyrefail|1800|300|9|138
+Villacarrillo|Goldenstedt|800|1200|4|56
+Villacarrillo|Mühlacker|1900|300|8|81
+Villacarrillo|Wezep|1300|1500|2|144
+Villacarrillo|Gelves|400|800|4|113
+Villacarrillo|Atkarsk|0|200|2|142
+Villacarrillo|Bad Breisig|1900|300|8|107
+Dar El Kebdani|Trofarello|1200|1700|5|103
+Dar El Kebdani|Malacky|2300|500|6|45
+Dar El Kebdani|Nadvirna|300|500|2|92
+Dar El Kebdani|Allschwil|200|600|4|109
+Dar El Kebdani|Toftir|0|900|9|58
+Dar El Kebdani|Ugol’nyye Kopi|800|1200|4|68
+Dar El Kebdani|Villacarrillo|100|1000|9|35
+Dar El Kebdani|Vanadzor|1600|1900|3|136
+Dar El Kebdani|Tyldesley|2100|200|5|115
+Dar El Kebdani|Dzerzhinsk|1300|1500|2|111
+Dar El Kebdani|Český Těšín|800|1500|7|146
+Dar El Kebdani|Zacháro|2000|500|9|126
+Dar El Kebdani|Buguruslan|1000|1700|7|56
+Dar El Kebdani|Station des Essais M.V.A.|2300|300|4|131
+Dar El Kebdani|Hlevakha|1100|1700|6|86
+Dar El Kebdani|Mannheim|1000|1800|8|67
+Dar El Kebdani|Siniscola|1800|0|6|57
+Dar El Kebdani|Nowy Sącz|1700|0|7|126
+Dar El Kebdani|Ringwood|1300|1900|6|146
+Dar El Kebdani|Odivelas|900|1500|6|119
+Dar El Kebdani|Azzano|1500|1900|4|77
+Dar El Kebdani|Saint Helens|200|700|5|107
+Dar El Kebdani|Broadstairs|1800|0|6|41
+Dar El Kebdani|Havran|300|1100|8|61
+Dar El Kebdani|Sovicille|2000|2200|2|122
+Dar El Kebdani|Saint Andrews|1100|1900|8|46
+Dar El Kebdani|Neman|400|800|4|124
+Dar El Kebdani|Borås|300|1200|9|73
+Dar El Kebdani|Sande|400|800|4|75
+Dar El Kebdani|Impruneta|1800|0|6|76
+Dar El Kebdani|Kettering|500|700|2|133
+Dar El Kebdani|Kinel’-Cherkassy|400|1100|7|35
+Dar El Kebdani|Goldenstedt|500|900|4|148
+Dar El Kebdani|Mühlacker|1600|2300|7|91
+Dar El Kebdani|Wezep|300|800|5|139
+Dar El Kebdani|Gelves|1200|2000|8|107
+Dar El Kebdani|Atkarsk|1900|2300|4|98
+Dar El Kebdani|Bad Breisig|500|1100|6|115
+Barendrecht|Trofarello|0|700|7|92
+Barendrecht|Hemsworth|1300|2000|7|124
+Barendrecht|Allschwil|400|600|2|43
+Barendrecht|Toftir|1500|2000|5|69
+Barendrecht|Ugol’nyye Kopi|1400|1800|4|110
+Barendrecht|Dar El Kebdani|900|1100|2|55
+Barendrecht|Saint-Gilles|1600|2200|6|52
+Barendrecht|Dzerzhinsk|100|1000|9|139
+Barendrecht|Český Těšín|300|1000|7|116
+Barendrecht|Zacháro|1000|1800|8|33
+Barendrecht|Buguruslan|400|1200|8|85
+Barendrecht|Ust’-Olenëk|900|1100|2|79
+Barendrecht|Station des Essais M.V.A.|600|1100|5|80
+Barendrecht|Mannheim|400|1100|7|98
+Barendrecht|Nowy Sącz|400|700|3|113
+Barendrecht|Ringwood|100|400|3|54
+Barendrecht|Azzano|1200|1500|3|97
+Barendrecht|Saint Helens|1500|1800|3|146
+Barendrecht|Broadstairs|200|1000|8|69
+Barendrecht|Havran|1400|1800|4|89
+Barendrecht|Sovicille|1200|1500|3|113
+Barendrecht|Wronki|2300|500|6|53
+Barendrecht|Weilheim an der Teck|1200|2000|8|119
+Barendrecht|Neman|1700|1900|2|33
+Barendrecht|Borås|1700|200|9|99
+Barendrecht|Sande|1500|2200|7|64
+Barendrecht|Kettering|1800|2100|3|69
+Barendrecht|Tonyrefail|900|1400|5|106
+Barendrecht|Goldenstedt|1800|300|9|101
+Barendrecht|Mühlacker|1000|1400|4|101
+Barendrecht|Bad Breisig|2200|100|3|110
+Vanadzor|Trofarello|1900|2100|2|80
+Vanadzor|Malacky|1200|2100|9|131
+Vanadzor|Hemsworth|300|1200|9|103
+Vanadzor|Nadvirna|600|1300|7|32
+Vanadzor|Allschwil|1700|2200|5|119
+Vanadzor|Toftir|1600|2000|4|102
+Vanadzor|Ugol’nyye Kopi|1400|2200|8|52
+Vanadzor|Villacarrillo|1600|100|9|63
+Vanadzor|Dar El Kebdani|1500|2100|6|123
+Vanadzor|Barendrecht|2200|400|6|112
+Vanadzor|Saint-Gilles|1900|2100|2|82
+Vanadzor|Tyldesley|1700|0|7|105
+Vanadzor|Seevetal|1700|1900|2|69
+Vanadzor|Dzerzhinsk|700|1100|4|101
+Vanadzor|Český Těšín|2200|400|6|91
+Vanadzor|Buguruslan|300|700|4|86
+Vanadzor|Station des Essais M.V.A.|600|1300|7|90
+Vanadzor|Hlevakha|300|900|6|59
+Vanadzor|Mannheim|2300|200|3|51
+Vanadzor|Siniscola|400|1100|7|137
+Vanadzor|Ringwood|200|800|6|39
+Vanadzor|Azzano|1900|100|6|74
+Vanadzor|Saint Helens|800|1700|9|91
+Vanadzor|Havran|1300|1700|4|133
+Vanadzor|Sovicille|400|1000|6|132
+Vanadzor|Wronki|1700|1900|2|66
+Vanadzor|Weilheim an der Teck|1100|1300|2|98
+Vanadzor|Saint Andrews|2200|0|2|66
+Vanadzor|Neman|1600|2300|7|32
+Vanadzor|Borås|1800|2300|5|106
+Vanadzor|Lomma|1400|2200|8|36
+Vanadzor|Impruneta|700|1500|8|78
+Vanadzor|Kettering|2200|700|9|68
+Vanadzor|Kinel’-Cherkassy|400|800|4|73
+Vanadzor|Tonyrefail|900|1500|6|141
+Vanadzor|Goldenstedt|2200|0|2|37
+Vanadzor|Mühlacker|600|1000|4|145
+Vanadzor|Wezep|1400|2000|6|143
+Vanadzor|Gelves|1900|100|6|50
+Saint-Gilles|Cuesmes|200|1100|9|49
+Saint-Gilles|Trofarello|2100|2300|2|96
+Saint-Gilles|Malacky|1300|2200|9|130
+Saint-Gilles|Hemsworth|1100|1400|3|78
+Saint-Gilles|Nadvirna|2300|800|9|135
+Saint-Gilles|Toftir|100|500|4|38
+Saint-Gilles|Ugol’nyye Kopi|200|700|5|123
+Saint-Gilles|Villacarrillo|1800|0|6|58
+Saint-Gilles|Dar El Kebdani|300|800|5|131
+Saint-Gilles|Barendrecht|900|1500|6|95
+Saint-Gilles|Tyldesley|1000|1800|8|43
+Saint-Gilles|Guarda|2300|800|9|50
+Saint-Gilles|Dzerzhinsk|0|500|5|112
+Saint-Gilles|Český Těšín|0|700|7|127
+Saint-Gilles|Buguruslan|1500|1900|4|123
+Saint-Gilles|Ust’-Olenëk|900|1200|3|66
+Saint-Gilles|Station des Essais M.V.A.|1800|300|9|91
+Saint-Gilles|Hlevakha|1900|100|6|49
+Saint-Gilles|Nowy Sącz|800|1000|2|62
+Saint-Gilles|Ringwood|400|900|5|33
+Saint-Gilles|Odivelas|300|900|6|68
+Saint-Gilles|Azzano|200|700|5|94
+Saint-Gilles|Saint Helens|1100|2000|9|134
+Saint-Gilles|Havran|2200|200|4|58
+Saint-Gilles|Sovicille|2200|0|2|48
+Saint-Gilles|Wronki|900|1100|2|50
+Saint-Gilles|Weilheim an der Teck|1000|1800|8|121
+Saint-Gilles|Neman|1000|1700|7|34
+Saint-Gilles|Borås|1800|2300|5|50
+Saint-Gilles|Lomma|700|1500|8|116
+Saint-Gilles|Sande|600|1400|8|145
+Saint-Gilles|Impruneta|2000|2300|3|78
+Saint-Gilles|Kinel’-Cherkassy|2200|200|4|133
+Saint-Gilles|Tonyrefail|1900|0|5|61
+Saint-Gilles|Goldenstedt|1900|2100|2|117
+Saint-Gilles|Mühlacker|1300|1600|3|72
+Saint-Gilles|Wezep|1900|2300|4|50
+Tyldesley|Cuesmes|2300|400|5|144
+Tyldesley|Trofarello|1300|1900|6|142
+Tyldesley|Malacky|1100|1900|8|117
+Tyldesley|Nadvirna|1000|1400|4|81
+Tyldesley|Allschwil|300|1000|7|117
+Tyldesley|Toftir|300|900|6|109
+Tyldesley|Villacarrillo|0|700|7|145
+Tyldesley|Barendrecht|700|1000|3|118
+Tyldesley|Vanadzor|2300|600|7|135
+Tyldesley|Seevetal|800|1700|9|106
+Tyldesley|Guarda|2200|500|7|69
+Tyldesley|Dzerzhinsk|2000|200|6|42
+Tyldesley|Buguruslan|1400|1800|4|91
+Tyldesley|Ust’-Olenëk|0|700|7|74
+Tyldesley|Station des Essais M.V.A.|2100|100|4|116
+Tyldesley|Hlevakha|1200|1400|2|128
+Tyldesley|Mannheim|2100|100|4|54
+Tyldesley|Nowy Sącz|1600|1900|3|87
+Tyldesley|Odivelas|1300|1800|5|111
+Tyldesley|Azzano|0|800|8|84
+Tyldesley|Havran|1400|2000|6|63
+Tyldesley|Wronki|2100|500|8|94
+Tyldesley|Weilheim an der Teck|2100|500|8|55
+Tyldesley|Saint Andrews|1700|2300|6|98
+Tyldesley|Neman|900|1500|6|128
+Tyldesley|Impruneta|1000|1900|9|110
+Tyldesley|Kinel’-Cherkassy|400|1000|6|102
+Tyldesley|Goldenstedt|200|500|3|37
+Tyldesley|Mühlacker|1600|100|9|96
+Tyldesley|Gelves|600|900|3|43
+Tyldesley|Atkarsk|2000|2200|2|111
+Tyldesley|Bad Breisig|800|1300|5|49
+Seevetal|Cuesmes|1300|2100|8|116
+Seevetal|Trofarello|100|1000|9|73
+Seevetal|Malacky|800|1000|2|93
+Seevetal|Hemsworth|900|1600|7|67
+Seevetal|Nadvirna|1100|1500|4|44
+Seevetal|Allschwil|2200|300|5|132
+Seevetal|Toftir|200|1100|9|35
+Seevetal|Ugol’nyye Kopi|1300|2200|9|81
+Seevetal|Dar El Kebdani|1500|1800|3|39
+Seevetal|Vanadzor|1000|1900|9|136
+Seevetal|Saint-Gilles|2200|500|7|38
+Seevetal|Tyldesley|1400|2200|8|84
+Seevetal|Guarda|100|300|2|60
+Seevetal|Dzerzhinsk|900|1300|4|69
+Seevetal|Zacháro|1100|1700|6|83
+Seevetal|Station des Essais M.V.A.|2200|300|5|148
+Seevetal|Hlevakha|200|500|3|41
+Seevetal|Mannheim|2100|200|5|86
+Seevetal|Siniscola|1500|1700|2|131
+Seevetal|Nowy Sącz|2200|500|7|73
+Seevetal|Ringwood|2000|400|8|92
+Seevetal|Odivelas|2200|200|4|36
+Seevetal|Azzano|1200|1400|2|101
+Seevetal|Saint Helens|2100|200|5|32
+Seevetal|Havran|900|1800|9|55
+Seevetal|Wronki|1600|1800|2|64
+Seevetal|Weilheim an der Teck|1300|2100|8|92
+Seevetal|Saint Andrews|800|1000|2|70
+Seevetal|Neman|2100|100|4|64
+Seevetal|Borås|2100|600|9|51
+Seevetal|Kinel’-Cherkassy|2300|400|5|70
+Seevetal|Goldenstedt|1100|2000|9|32
+Seevetal|Wezep|2000|2200|2|56
+Seevetal|Gelves|700|1200|5|70
+Seevetal|Bad Breisig|1700|2100|4|46
+Guarda|Cuesmes|1400|1800|4|59
+Guarda|Trofarello|500|800|3|60
+Guarda|Malacky|1400|1900|5|77
+Guarda|Hemsworth|400|800|4|41
+Guarda|Nadvirna|1900|100|6|107
+Guarda|Toftir|100|600|5|93
+Guarda|Ugol’nyye Kopi|1600|1900|3|89
+Guarda|Dar El Kebdani|600|900|3|122
+Guarda|Vanadzor|1300|1600|3|135
+Guarda|Saint-Gilles|400|1200|8|33
+Guarda|Tyldesley|600|1200|6|58
+Guarda|Seevetal|0|400|4|113
+Guarda|Dzerzhinsk|1800|2000|2|37
+Guarda|Český Těšín|900|1700|8|82
+Guarda|Ust’-Olenëk|1600|1800|2|146
+Guarda|Mannheim|1700|2300|6|58
+Guarda|Ringwood|1400|2200|8|99
+Guarda|Saint Helens|600|900|3|68
+Guarda|Sovicille|1900|100|6|84
+Guarda|Wronki|1300|2000|7|52
+Guarda|Weilheim an der Teck|700|1400|7|30
+Guarda|Saint Andrews|400|1300|9|102
+Guarda|Neman|800|1100|3|85
+Guarda|Lomma|2100|100|4|57
+Guarda|Impruneta|2000|100|5|86
+Guarda|Kinel’-Cherkassy|2100|100|4|30
+Guarda|Tonyrefail|1400|1700|3|68
+Guarda|Wezep|1900|2300|4|79
+Guarda|Gelves|1700|100|8|66
+Guarda|Bad Breisig|1500|2200|7|118
+Dzerzhinsk|Malacky|2100|600|9|131
+Dzerzhinsk|Hemsworth|2300|300|4|94
+Dzerzhinsk|Nadvirna|1600|2300|7|40
+Dzerzhinsk|Toftir|400|900|5|30
+Dzerzhinsk|Barendrecht|2100|500|8|35
+Dzerzhinsk|Vanadzor|600|1100|5|126
+Dzerzhinsk|Saint-Gilles|1600|2200|6|94
+Dzerzhinsk|Tyldesley|2000|2200|2|141
+Dzerzhinsk|Seevetal|500|700|2|78
+Dzerzhinsk|Guarda|500|1200|7|62
+Dzerzhinsk|Český Těšín|1400|2200|8|34
+Dzerzhinsk|Zacháro|900|1300|4|80
+Dzerzhinsk|Buguruslan|1000|1400|4|102
+Dzerzhinsk|Ust’-Olenëk|200|600|4|105
+Dzerzhinsk|Station des Essais M.V.A.|700|1500|8|53
+Dzerzhinsk|Hlevakha|400|600|2|131
+Dzerzhinsk|Mannheim|800|1600|8|30
+Dzerzhinsk|Ringwood|1800|2000|2|75
+Dzerzhinsk|Odivelas|600|1500|9|69
+Dzerzhinsk|Azzano|0|500|5|108
+Dzerzhinsk|Saint Helens|1200|2100|9|99
+Dzerzhinsk|Broadstairs|1900|200|7|110
+Dzerzhinsk|Havran|2300|100|2|52
+Dzerzhinsk|Wronki|500|1100|6|145
+Dzerzhinsk|Weilheim an der Teck|1000|1700|7|144
+Dzerzhinsk|Saint Andrews|1100|1600|5|119
+Dzerzhinsk|Neman|300|600|3|72
+Dzerzhinsk|Lomma|1000|1800|8|145
+Dzerzhinsk|Kettering|200|800|6|132
+Dzerzhinsk|Kinel’-Cherkassy|1900|2100|2|71
+Dzerzhinsk|Tonyrefail|1900|2200|3|57
+Dzerzhinsk|Goldenstedt|900|1500|6|74
+Dzerzhinsk|Wezep|2000|500|9|71
+Dzerzhinsk|Gelves|200|1100|9|135
+Český Těšín|Cuesmes|1800|200|8|116
+Český Těšín|Allschwil|100|500|4|57
+Český Těšín|Toftir|800|1500|7|114
+Český Těšín|Ugol’nyye Kopi|1000|1900|9|40
+Český Těšín|Villacarrillo|800|1200|4|130
+Český Těšín|Dar El Kebdani|0|700|7|48
+Český Těšín|Barendrecht|1000|1800|8|106
+Český Těšín|Vanadzor|2300|300|4|66
+Český Těšín|Saint-Gilles|2300|500|6|40
+Český Těšín|Guarda|500|1400|9|44
+Český Těšín|Hlevakha|100|900|8|31
+Český Těšín|Mannheim|800|1000|2|89
+Český Těšín|Nowy Sącz|800|1000|2|54
+Český Těšín|Ringwood|1300|2100|8|70
+Český Těšín|Odivelas|2200|100|3|53
+Český Těšín|Azzano|1200|1400|2|33
+Český Těšín|Broadstairs|2100|100|4|115
+Český Těšín|Wronki|100|300|2|109
+Český Těšín|Weilheim an der Teck|500|800|3|42
+Český Těšín|Borås|2000|200|6|30
+Český Těšín|Impruneta|1500|1700|2|131
+Český Těšín|Kettering|1800|200|8|40
+Český Těšín|Kinel’-Cherkassy|2300|400|5|37
+Český Těšín|Mühlacker|800|1100|3|99
+Český Těšín|Wezep|1500|0|9|44
+Český Těšín|Gelves|400|900|5|30
+Český Těšín|Atkarsk|300|700|4|103
+Český Těšín|Bad Breisig|900|1600|7|141
+Zacháro|Cuesmes|400|1300|9|110
+Zacháro|Malacky|700|1000|3|44
+Zacháro|Hemsworth|200|1000|8|129
+Zacháro|Nadvirna|1700|2100|4|97
+Zacháro|Allschwil|400|1200|8|135
+Zacháro|Toftir|500|1400|9|77
+Zacháro|Ugol’nyye Kopi|2000|400|8|32
+Zacháro|Villacarrillo|1400|2200|8|72
+Zacháro|Dar El Kebdani|2100|300|6|56
+Zacháro|Barendrecht|800|1500|7|50
+Zacháro|Vanadzor|1200|1400|2|101
+Zacháro|Saint-Gilles|1300|1500|2|81
+Zacháro|Tyldesley|700|1100|4|76
+Zacháro|Seevetal|1400|1900|5|108
+Zacháro|Dzerzhinsk|1800|300|9|56
+Zacháro|Český Těšín|1700|1900|2|70
+Zacháro|Buguruslan|1400|2200|8|92
+Zacháro|Ust’-Olenëk|900|1200|3|122
+Zacháro|Station des Essais M.V.A.|2300|600|7|66
+Zacháro|Hlevakha|200|600|4|98
+Zacháro|Siniscola|0|900|9|57
+Zacháro|Nowy Sącz|2200|600|8|48
+Zacháro|Ringwood|1600|1900|3|108
+Zacháro|Odivelas|600|800|2|90
+Zacháro|Azzano|2300|300|4|32
+Zacháro|Broadstairs|1800|200|8|45
+Zacháro|Wronki|400|1000|6|107
+Zacháro|Borås|1700|1900|2|79
+Zacháro|Lomma|1800|2000|2|65
+Zacháro|Sande|2100|0|3|87
+Zacháro|Impruneta|300|1100|8|41
+Zacháro|Kettering|1700|2100|4|123
+Zacháro|Kinel’-Cherkassy|1100|1300|2|144
+Zacháro|Mühlacker|800|1500|7|52
+Zacháro|Gelves|500|900|4|41
+Zacháro|Atkarsk|500|1200|7|101
+Zacháro|Bad Breisig|300|500|2|136
+Buguruslan|Cuesmes|2200|300|5|95
+Buguruslan|Malacky|1400|1600|2|77
+Buguruslan|Nadvirna|2200|300|5|74
+Buguruslan|Allschwil|0|700|7|109
+Buguruslan|Ugol’nyye Kopi|1700|2000|3|140
+Buguruslan|Villacarrillo|2000|300|7|121
+Buguruslan|Barendrecht|100|600|5|146
+Buguruslan|Vanadzor|1200|1400|2|71
+Buguruslan|Saint-Gilles|2000|0|4|83
+Buguruslan|Tyldesley|2000|0|4|124
+Buguruslan|Seevetal|1000|1700|7|107
+Buguruslan|Guarda|2200|400|6|39
+Buguruslan|Dzerzhinsk|0|400|4|33
+Buguruslan|Český Těšín|400|800|4|118
+Buguruslan|Zacháro|1200|1900|7|132
+Buguruslan|Ust’-Olenëk|1100|1400|3|72
+Buguruslan|Hlevakha|300|700|4|97
+Buguruslan|Mannheim|2100|300|6|66
+Buguruslan|Siniscola|400|700|3|135
+Buguruslan|Azzano|400|700|3|124
+Buguruslan|Saint Helens|1100|1400|3|53
+Buguruslan|Broadstairs|1400|1900|5|84
+Buguruslan|Havran|1800|2300|5|31
+Buguruslan|Sovicille|600|1500|9|92
+Buguruslan|Wronki|1800|2300|5|129
+Buguruslan|Saint Andrews|2200|200|4|56
+Buguruslan|Neman|2000|0|4|76
+Buguruslan|Borås|800|1300|5|128
+Buguruslan|Lomma|900|1400|5|50
+Buguruslan|Sande|600|800|2|46
+Buguruslan|Kettering|1700|2000|3|105
+Buguruslan|Kinel’-Cherkassy|2200|700|9|77
+Buguruslan|Tonyrefail|1100|1800|7|102
+Buguruslan|Goldenstedt|200|400|2|82
+Buguruslan|Wezep|500|1300|8|49
+Buguruslan|Gelves|1100|2000|9|50
+Buguruslan|Atkarsk|2200|200|4|147
+Buguruslan|Bad Breisig|1200|1400|2|67
+Ust’-Olenëk|Cuesmes|600|800|2|70
+Ust’-Olenëk|Malacky|2000|300|7|98
+Ust’-Olenëk|Hemsworth|700|1300|6|45
+Ust’-Olenëk|Allschwil|1200|1800|6|48
+Ust’-Olenëk|Toftir|1700|100|8|146
+Ust’-Olenëk|Ugol’nyye Kopi|2300|600|7|100
+Ust’-Olenëk|Dar El Kebdani|2300|700|8|37
+Ust’-Olenëk|Barendrecht|700|1100|4|51
+Ust’-Olenëk|Tyldesley|0|300|3|80
+Ust’-Olenëk|Seevetal|300|1200|9|114
+Ust’-Olenëk|Guarda|500|800|3|84
+Ust’-Olenëk|Dzerzhinsk|1100|1900|8|132
+Ust’-Olenëk|Zacháro|0|800|8|136
+Ust’-Olenëk|Buguruslan|200|400|2|43
+Ust’-Olenëk|Station des Essais M.V.A.|2100|200|5|81
+Ust’-Olenëk|Hlevakha|100|500|4|64
+Ust’-Olenëk|Nowy Sącz|700|1200|5|59
+Ust’-Olenëk|Ringwood|2300|600|7|45
+Ust’-Olenëk|Odivelas|1800|200|8|38
+Ust’-Olenëk|Azzano|100|300|2|123
+Ust’-Olenëk|Saint Helens|600|1200|6|77
+Ust’-Olenëk|Saint Andrews|0|800|8|140
+Ust’-Olenëk|Lomma|1400|1600|2|36
+Ust’-Olenëk|Sande|0|800|8|34
+Ust’-Olenëk|Impruneta|2100|400|7|120
+Ust’-Olenëk|Kettering|1000|1800|8|89
+Ust’-Olenëk|Kinel’-Cherkassy|2100|100|4|104
+Ust’-Olenëk|Tonyrefail|800|1400|6|142
+Ust’-Olenëk|Goldenstedt|2300|100|2|55
+Ust’-Olenëk|Mühlacker|1800|2100|3|141
+Ust’-Olenëk|Wezep|900|1800|9|124
+Ust’-Olenëk|Gelves|1200|1500|3|118
+Ust’-Olenëk|Atkarsk|2000|100|5|104
+Ust’-Olenëk|Bad Breisig|1000|1200|2|141
+Station des Essais M.V.A.|Trofarello|500|700|2|80
+Station des Essais M.V.A.|Malacky|2300|600|7|117
+Station des Essais M.V.A.|Hemsworth|1800|2200|4|35
+Station des Essais M.V.A.|Nadvirna|900|1600|7|89
+Station des Essais M.V.A.|Allschwil|1400|1800|4|65
+Station des Essais M.V.A.|Ugol’nyye Kopi|500|1400|9|93
+Station des Essais M.V.A.|Villacarrillo|600|1300|7|126
+Station des Essais M.V.A.|Barendrecht|1000|1900|9|35
+Station des Essais M.V.A.|Saint-Gilles|2300|200|3|32
+Station des Essais M.V.A.|Seevetal|400|1300|9|122
+Station des Essais M.V.A.|Guarda|1800|300|9|37
+Station des Essais M.V.A.|Dzerzhinsk|300|800|5|121
+Station des Essais M.V.A.|Český Těšín|1400|2300|9|91
+Station des Essais M.V.A.|Ust’-Olenëk|1800|100|7|77
+Station des Essais M.V.A.|Hlevakha|100|900|8|93
+Station des Essais M.V.A.|Mannheim|2100|200|5|134
+Station des Essais M.V.A.|Siniscola|1700|2300|6|49
+Station des Essais M.V.A.|Nowy Sącz|800|1000|2|53
+Station des Essais M.V.A.|Azzano|1600|2200|6|109
+Station des Essais M.V.A.|Saint Helens|700|1200|5|126
+Station des Essais M.V.A.|Havran|1800|0|6|61
+Station des Essais M.V.A.|Sovicille|200|1000|8|30
+Station des Essais M.V.A.|Wronki|1300|1900|6|87
+Station des Essais M.V.A.|Weilheim an der Teck|1700|2300|6|37
+Station des Essais M.V.A.|Saint Andrews|1500|0|9|60
+Station des Essais M.V.A.|Neman|600|1300|7|57
+Station des Essais M.V.A.|Lomma|100|1000|9|146
+Station des Essais M.V.A.|Sande|2300|100|2|42
+Station des Essais M.V.A.|Kettering|1600|2200|6|66
+Station des Essais M.V.A.|Goldenstedt|1200|1800|6|33
+Station des Essais M.V.A.|Wezep|300|1100|8|97
+Station des Essais M.V.A.|Gelves|800|1400|6|88
+Station des Essais M.V.A.|Atkarsk|100|600|5|120
+Hlevakha|Cuesmes|1000|1600|6|78
+Hlevakha|Trofarello|1400|1900|5|58
+Hlevakha|Allschwil|200|700|5|105
+Hlevakha|Villacarrillo|1300|1500|2|132
+Hlevakha|Dar El Kebdani|2200|300|5|125
+Hlevakha|Barendrecht|600|1300|7|118
+Hlevakha|Vanadzor|1400|1900|5|90
+Hlevakha|Saint-Gilles|1100|1700|6|32
+Hlevakha|Tyldesley|1600|0|8|77
+Hlevakha|Seevetal|1400|1800|4|113
+Hlevakha|Dzerzhinsk|900|1200|3|77
+Hlevakha|Český Těšín|2100|200|5|99
+Hlevakha|Buguruslan|1200|1900|7|86
+Hlevakha|Ust’-Olenëk|2100|100|4|75
+Hlevakha|Station des Essais M.V.A.|1200|1600|4|117
+Hlevakha|Mannheim|1400|2000|6|48
+Hlevakha|Siniscola|1400|2300|9|107
+Hlevakha|Nowy Sącz|1700|2000|3|136
+Hlevakha|Azzano|1800|0|6|148
+Hlevakha|Saint Helens|300|1100|8|63
+Hlevakha|Broadstairs|1100|1700|6|102
+Hlevakha|Havran|600|1000|4|48
+Hlevakha|Sovicille|300|600|3|43
+Hlevakha|Wronki|1600|2100|5|64
+Hlevakha|Weilheim an der Teck|2100|100|4|53
+Hlevakha|Saint Andrews|1700|100|8|108
+Hlevakha|Neman|2200|0|2|60
+Hlevakha|Lomma|1400|1800|4|92
+Hlevakha|Kinel’-Cherkassy|1700|200|9|62
+Hlevakha|Goldenstedt|1200|1900|7|120
+Hlevakha|Wezep|200|1000|8|105
+Hlevakha|Gelves|1400|2300|9|41
+Hlevakha|Atkarsk|1100|1400|3|73
+Hlevakha|Bad Breisig|1400|2000|6|100
+Mannheim|Cuesmes|900|1800|9|86
+Mannheim|Hemsworth|1300|1600|3|143
+Mannheim|Nadvirna|400|1100|7|125
+Mannheim|Allschwil|300|1100|8|95
+Mannheim|Toftir|0|800|8|50
+Mannheim|Ugol’nyye Kopi|1000|1900|9|140
+Mannheim|Dar El Kebdani|600|900|3|51
+Mannheim|Barendrecht|0|300|3|144
+Mannheim|Vanadzor|1900|200|7|34
+Mannheim|Seevetal|1900|2300|4|54
+Mannheim|Guarda|1100|1300|2|85
+Mannheim|Dzerzhinsk|300|600|3|68
+Mannheim|Zacháro|1300|2100|8|88
+Mannheim|Buguruslan|200|900|7|85
+Mannheim|Ust’-Olenëk|1200|1800|6|97
+Mannheim|Siniscola|300|1100|8|31
+Mannheim|Ringwood|1000|1900|9|139
+Mannheim|Odivelas|2200|600|8|132
+Mannheim|Saint Helens|2100|400|7|80
+Mannheim|Broadstairs|500|1000|5|142
+Mannheim|Wronki|300|500|2|87
+Mannheim|Weilheim an der Teck|200|800|6|66
+Mannheim|Saint Andrews|900|1300|4|47
+Mannheim|Neman|1000|1200|2|125
+Mannheim|Borås|500|1200|7|114
+Mannheim|Lomma|600|1200|6|117
+Mannheim|Impruneta|300|1200|9|38
+Mannheim|Tonyrefail|300|700|4|71
+Mannheim|Mühlacker|100|500|4|52
+Mannheim|Wezep|0|700|7|129
+Mannheim|Gelves|1300|1500|2|147
+Mannheim|Atkarsk|700|900|2|107
+Mannheim|Bad Breisig|300|1000|7|139
+Siniscola|Trofarello|1700|2100|4|127
+Siniscola|Malacky|1500|0|9|39
+Siniscola|Nadvirna|1400|2000|6|43
+Siniscola|Allschwil|1700|1900|2|100
+Siniscola|Toftir|700|1200|5|47
+Siniscola|Ugol’nyye Kopi|1100|1300|2|62
+Siniscola|Villacarrillo|100|300|2|93
+Siniscola|Dar El Kebdani|300|600|3|79
+Siniscola|Barendrecht|300|1200|9|66
+Siniscola|Vanadzor|2200|200|4|36
+Siniscola|Saint-Gilles|100|1000|9|78
+Siniscola|Tyldesley|2300|400|5|64
+Siniscola|Seevetal|1300|1500|2|91
+Siniscola|Dzerzhinsk|700|1200|5|65
+Siniscola|Zacháro|900|1300|4|110
+Siniscola|Buguruslan|300|700|4|75
+Siniscola|Ust’-Olenëk|1200|2000|8|86
+Siniscola|Station des Essais M.V.A.|400|1000|6|92
+Siniscola|Hlevakha|400|1200|8|94
+Siniscola|Mannheim|700|1600|9|118
+Siniscola|Nowy Sącz|1100|1600|5|82
+Siniscola|Saint Helens|900|1300|4|66
+Siniscola|Broadstairs|200|900|7|142
+Siniscola|Wronki|1100|1600|5|140
+Siniscola|Weilheim an der Teck|1300|1900|6|34
+Siniscola|Saint Andrews|1300|2200|9|116
+Siniscola|Neman|2300|500|6|131
+Siniscola|Borås|400|800|4|75
+Siniscola|Lomma|1900|200|7|80
+Siniscola|Sande|1900|100|6|47
+Siniscola|Kettering|1400|1900|5|106
+Siniscola|Kinel’-Cherkassy|800|1500|7|138
+Siniscola|Tonyrefail|800|1600|8|117
+Siniscola|Goldenstedt|1400|2200|8|127
+Siniscola|Wezep|0|800|8|134
+Siniscola|Gelves|2100|600|9|88
+Siniscola|Atkarsk|1500|1700|2|60
+Nowy Sącz|Trofarello|500|900|4|70
+Nowy Sącz|Malacky|1000|1500|5|143
+Nowy Sącz|Nadvirna|0|300|3|60
+Nowy Sącz|Allschwil|200|1100|9|40
+Nowy Sącz|Toftir|900|1800|9|92
+Nowy Sącz|Ugol’nyye Kopi|0|500|5|65
+Nowy Sącz|Villacarrillo|900|1300|4|65
+Nowy Sącz|Barendrecht|1200|1600|4|63
+Nowy Sącz|Vanadzor|1000|1600|6|58
+Nowy Sącz|Saint-Gilles|1800|300|9|115
+Nowy Sącz|Guarda|1200|1600|4|94
+Nowy Sącz|Dzerzhinsk|1200|1400|2|139
+Nowy Sącz|Český Těšín|500|1400|9|70
+Nowy Sącz|Ust’-Olenëk|800|1200|4|102
+Nowy Sącz|Station des Essais M.V.A.|0|400|4|51
+Nowy Sącz|Hlevakha|500|900|4|111
+Nowy Sącz|Odivelas|900|1600|7|143
+Nowy Sącz|Azzano|2200|100|3|100
+Nowy Sącz|Saint Helens|2100|100|4|129
+Nowy Sącz|Havran|1500|2100|6|33
+Nowy Sącz|Sovicille|700|1600|9|110
+Nowy Sącz|Weilheim an der Teck|500|1400|9|102
+Nowy Sącz|Saint Andrews|1400|2000|6|79
+Nowy Sącz|Neman|800|1400|6|37
+Nowy Sącz|Borås|1300|1700|4|104
+Nowy Sącz|Lomma|1800|200|8|63
+Nowy Sącz|Sande|100|600|5|120
+Nowy Sącz|Kettering|0|300|3|44
+Nowy Sącz|Kinel’-Cherkassy|1000|1700|7|57
+Nowy Sącz|Goldenstedt|2300|500|6|140
+Nowy Sącz|Wezep|200|1100|9|124
+Nowy Sącz|Gelves|1200|2100|9|38
+Nowy Sącz|Bad Breisig|0|800|8|116
+Ringwood|Cuesmes|1400|1600|2|100
+Ringwood|Malacky|100|700|6|43
+Ringwood|Hemsworth|1600|2300|7|45
+Ringwood|Nadvirna|1200|1400|2|73
+Ringwood|Toftir|300|600|3|60
+Ringwood|Ugol’nyye Kopi|1300|1900|6|115
+Ringwood|Barendrecht|1200|1500|3|147
+Ringwood|Vanadzor|1300|2100|8|41
+Ringwood|Saint-Gilles|1100|2000|9|121
+Ringwood|Tyldesley|0|900|9|47
+Ringwood|Seevetal|0|800|8|144
+Ringwood|Guarda|100|700|6|45
+Ringwood|Dzerzhinsk|300|1000|7|128
+Ringwood|Český Těšín|2300|600|7|108
+Ringwood|Station des Essais M.V.A.|400|1200|8|101
+Ringwood|Siniscola|1000|1600|6|136
+Ringwood|Havran|1800|200|8|42
+Ringwood|Wronki|1300|1800|5|64
+Ringwood|Weilheim an der Teck|500|1100|6|41
+Ringwood|Neman|0|900|9|43
+Ringwood|Lomma|600|1200|6|39
+Ringwood|Kettering|200|700|5|34
+Ringwood|Kinel’-Cherkassy|700|900|2|74
+Ringwood|Tonyrefail|2200|500|7|50
+Ringwood|Mühlacker|1600|1800|2|141
+Ringwood|Wezep|100|900|8|55
+Ringwood|Atkarsk|900|1700|8|74
+Ringwood|Bad Breisig|1600|2000|4|66
+Odivelas|Cuesmes|1200|1700|5|149
+Odivelas|Trofarello|500|1000|5|42
+Odivelas|Malacky|500|800|3|57
+Odivelas|Hemsworth|1900|2100|2|41
+Odivelas|Nadvirna|700|1600|9|54
+Odivelas|Allschwil|800|1400|6|144
+Odivelas|Toftir|1300|1500|2|134
+Odivelas|Villacarrillo|2300|600|7|55
+Odivelas|Dar El Kebdani|900|1100|2|139
+Odivelas|Saint-Gilles|2200|400|6|99
+Odivelas|Tyldesley|200|800|6|131
+Odivelas|Seevetal|1600|2000|4|92
+Odivelas|Guarda|500|700|2|68
+Odivelas|Dzerzhinsk|2100|400|7|88
+Odivelas|Zacháro|200|800|6|85
+Odivelas|Ust’-Olenëk|1400|2300|9|146
+Odivelas|Station des Essais M.V.A.|200|500|3|42
+Odivelas|Hlevakha|2200|600|8|70
+Odivelas|Mannheim|2300|300|4|131
+Odivelas|Siniscola|1900|2200|3|49
+Odivelas|Ringwood|2000|400|8|87
+Odivelas|Azzano|800|1200|4|81
+Odivelas|Saint Helens|700|1000|3|100
+Odivelas|Sovicille|600|1100|5|36
+Odivelas|Wronki|2300|200|3|42
+Odivelas|Saint Andrews|800|1600|8|57
+Odivelas|Neman|300|800|5|126
+Odivelas|Lomma|100|500|4|62
+Odivelas|Sande|200|800|6|105
+Odivelas|Tonyrefail|1300|1700|4|119
+Odivelas|Goldenstedt|2300|200|3|148
+Odivelas|Mühlacker|1500|1700|2|95
+Odivelas|Gelves|900|1100|2|91
+Odivelas|Atkarsk|600|800|2|127
+Odivelas|Bad Breisig|1200|1600|4|55
+Azzano|Cuesmes|1800|0|6|93
+Azzano|Trofarello|800|1000|2|127
+Azzano|Hemsworth|600|1100|5|123
+Azzano|Nadvirna|1600|100|9|142
+Azzano|Allschwil|1800|2100|3|113
+Azzano|Villacarrillo|1100|1800|7|127
+Azzano|Dar El Kebdani|1900|0|5|144
+Azzano|Barendrecht|200|900|7|46
+Azzano|Tyldesley|1000|1600|6|128
+Azzano|Seevetal|1100|1500|4|73
+Azzano|Guarda|1100|1900|8|112
+Azzano|Dzerzhinsk|1700|2300|6|85
+Azzano|Český Těšín|1700|200|9|128
+Azzano|Zacháro|400|1000|6|140
+Azzano|Station des Essais M.V.A.|900|1700|8|110
+Azzano|Hlevakha|700|1500|8|43
+Azzano|Nowy Sącz|500|900|4|62
+Azzano|Odivelas|2300|300|4|75
+Azzano|Broadstairs|2300|800|9|70
+Azzano|Havran|1700|1900|2|51
+Azzano|Wronki|500|700|2|73
+Azzano|Saint Andrews|0|900|9|143
+Azzano|Neman|1600|2300|7|146
+Azzano|Borås|2200|700|9|79
+Azzano|Lomma|1600|0|8|129
+Azzano|Sande|0|300|3|70
+Azzano|Impruneta|900|1500|6|143
+Azzano|Kettering|1200|1700|5|91
+Azzano|Kinel’-Cherkassy|400|600|2|37
+Azzano|Goldenstedt|1400|1600|2|30
+Azzano|Mühlacker|1100|1300|2|35
+Azzano|Wezep|1600|2100|5|129
+Azzano|Atkarsk|900|1500|6|42
+Azzano|Bad Breisig|1800|2300|5|141
+Saint Helens|Allschwil|0|400|4|92
+Saint Helens|Toftir|300|1200|9|111
+Saint Helens|Ugol’nyye Kopi|900|1200|3|46
+Saint Helens|Villacarrillo|1300|1600|3|56
+Saint Helens|Dar El Kebdani|500|1100|6|127
+Saint Helens|Barendrecht|1400|2100|7|96
+Saint Helens|Vanadzor|200|500|3|149
+Saint Helens|Tyldesley|1000|1300|3|34
+Saint Helens|Guarda|1800|2000|2|138
+Saint Helens|Český Těšín|800|1600|8|76
+Saint Helens|Zacháro|1000|1700|7|47
+Saint Helens|Buguruslan|100|800|7|104
+Saint Helens|Ust’-Olenëk|1800|0|6|147
+Saint Helens|Station des Essais M.V.A.|1300|2000|7|141
+Saint Helens|Mannheim|1400|1700|3|90
+Saint Helens|Siniscola|1700|2200|5|60
+Saint Helens|Nowy Sącz|1100|1600|5|146
+Saint Helens|Odivelas|2200|500|7|114
+Saint Helens|Azzano|900|1200|3|71
+Saint Helens|Broadstairs|600|900|3|84
+Saint Helens|Havran|1100|1300|2|34
+Saint Helens|Sovicille|0|400|4|99
+Saint Helens|Weilheim an der Teck|100|800|7|118
+Saint Helens|Borås|1400|2300|9|108
+Saint Helens|Lomma|1200|2100|9|145
+Saint Helens|Sande|800|1000|2|30
+Saint Helens|Impruneta|2100|600|9|137
+Saint Helens|Kinel’-Cherkassy|800|1700|9|139
+Saint Helens|Goldenstedt|1700|200|9|36
+Saint Helens|Wezep|800|1100|3|54
+Saint Helens|Atkarsk|500|800|3|46
+Saint Helens|Bad Breisig|900|1400|5|30
+Broadstairs|Cuesmes|1300|2200|9|75
+Broadstairs|Trofarello|2200|600|8|83
+Broadstairs|Malacky|1000|1400|4|149
+Broadstairs|Nadvirna|100|900|8|76
+Broadstairs|Allschwil|400|600|2|102
+Broadstairs|Ugol’nyye Kopi|600|1100|5|149
+Broadstairs|Barendrecht|2300|300|4|103
+Broadstairs|Tyldesley|0|500|5|147
+Broadstairs|Seevetal|1600|2100|5|124
+Broadstairs|Dzerzhinsk|2300|400|5|30
+Broadstairs|Český Těšín|900|1400|5|65
+Broadstairs|Zacháro|1700|2100|4|146
+Broadstairs|Buguruslan|300|600|3|69
+Broadstairs|Ust’-Olenëk|700|1600|9|92
+Broadstairs|Station des Essais M.V.A.|1500|2300|8|147
+Broadstairs|Hlevakha|500|1200|7|72
+Broadstairs|Mannheim|200|700|5|111
+Broadstairs|Ringwood|2000|2200|2|130
+Broadstairs|Odivelas|1600|100|9|84
+Broadstairs|Azzano|100|400|3|143
+Broadstairs|Saint Helens|800|1700|9|97
+Broadstairs|Havran|1800|2300|5|47
+Broadstairs|Sovicille|400|1100|7|114
+Broadstairs|Wronki|500|1300|8|96
+Broadstairs|Weilheim an der Teck|600|1300|7|53
+Broadstairs|Neman|700|1100|4|43
+Broadstairs|Borås|1600|100|9|69
+Broadstairs|Kettering|1100|1900|8|44
+Broadstairs|Kinel’-Cherkassy|1400|1700|3|90
+Broadstairs|Tonyrefail|0|600|6|94
+Broadstairs|Goldenstedt|300|600|3|59
+Broadstairs|Mühlacker|700|1200|5|33
+Broadstairs|Wezep|0|800|8|64
+Broadstairs|Gelves|0|600|6|68
+Broadstairs|Atkarsk|2100|100|4|78
+Havran|Cuesmes|1100|1800|7|44
+Havran|Trofarello|1600|1900|3|113
+Havran|Malacky|500|800|3|141
+Havran|Hemsworth|600|900|3|64
+Havran|Allschwil|1400|1600|2|90
+Havran|Toftir|2300|700|8|64
+Havran|Villacarrillo|600|1200|6|128
+Havran|Dar El Kebdani|2200|600|8|56
+Havran|Barendrecht|1800|100|7|141
+Havran|Vanadzor|2200|600|8|105
+Havran|Saint-Gilles|500|800|3|96
+Havran|Tyldesley|200|1000|8|145
+Havran|Seevetal|1800|2100|3|33
+Havran|Guarda|2000|100|5|76
+Havran|Dzerzhinsk|1800|300|9|148
+Havran|Český Těšín|1800|100|7|35
+Havran|Zacháro|300|1000|7|98
+Havran|Station des Essais M.V.A.|500|1300|8|42
+Havran|Hlevakha|600|1100|5|51
+Havran|Mannheim|800|1600|8|123
+Havran|Siniscola|300|500|2|105
+Havran|Nowy Sącz|0|600|6|34
+Havran|Ringwood|900|1700|8|45
+Havran|Odivelas|1500|0|9|116
+Havran|Azzano|1500|2200|7|83
+Havran|Saint Helens|0|400|4|92
+Havran|Broadstairs|500|1100|6|32
+Havran|Wronki|200|600|4|51
+Havran|Weilheim an der Teck|1500|1700|2|120
+Havran|Saint Andrews|800|1600|8|93
+Havran|Neman|100|600|5|88
+Havran|Borås|0|600|6|93
+Havran|Lomma|700|1500|8|110
+Havran|Sande|600|1200|6|82
+Havran|Impruneta|1200|2100|9|132
+Havran|Kettering|1400|1700|3|80
+Havran|Tonyrefail|100|1000|9|49
+Havran|Wezep|1900|300|8|93
+Havran|Atkarsk|1300|1800|5|40
+Havran|Bad Breisig|100|500|4|110
+Sovicille|Cuesmes|1200|1500|3|134
+Sovicille|Malacky|500|800|3|111
+Sovicille|Hemsworth|200|700|5|62
+Sovicille|Allschwil|200|1100|9|105
+Sovicille|Ugol’nyye Kopi|1200|1600|4|36
+Sovicille|Barendrecht|1500|2100|6|133
+Sovicille|Vanadzor|1500|2100|6|70
+Sovicille|Saint-Gilles|500|1300|8|87
+Sovicille|Tyldesley|800|1600|8|117
+Sovicille|Seevetal|1600|1900|3|48
+Sovicille|Guarda|100|300|2|91
+Sovicille|Český Těšín|1200|1800|6|83
+Sovicille|Zacháro|100|600|5|60
+Sovicille|Ust’-Olenëk|1600|2300|7|68
+Sovicille|Station des Essais M.V.A.|100|900|8|109
+Sovicille|Hlevakha|2300|300|4|46
+Sovicille|Mannheim|500|1000|5|96
+Sovicille|Siniscola|700|1600|9|130
+Sovicille|Nowy Sącz|1100|1600|5|47
+Sovicille|Ringwood|400|1000|6|55
+Sovicille|Odivelas|2000|100|5|40
+Sovicille|Saint Helens|1000|1500|5|44
+Sovicille|Wronki|1300|2000|7|129
+Sovicille|Weilheim an der Teck|900|1200|3|124
+Sovicille|Saint Andrews|100|600|5|143
+Sovicille|Neman|2000|0|4|99
+Sovicille|Borås|200|600|4|67
+Sovicille|Sande|600|1500|9|97
+Sovicille|Impruneta|300|900|6|139
+Sovicille|Kinel’-Cherkassy|1800|200|8|139
+Sovicille|Tonyrefail|1000|1300|3|35
+Sovicille|Mühlacker|2200|700|9|57
+Sovicille|Wezep|100|1000|9|47
+Sovicille|Gelves|1400|2100|7|53
+Sovicille|Atkarsk|700|1200|5|42
+Sovicille|Bad Breisig|1400|1800|4|73
+Wronki|Cuesmes|700|1200|5|128
+Wronki|Malacky|1100|1800|7|128
+Wronki|Nadvirna|1900|400|9|40
+Wronki|Allschwil|100|400|3|65
+Wronki|Toftir|900|1700|8|129
+Wronki|Ugol’nyye Kopi|1200|2000|8|58
+Wronki|Villacarrillo|2300|600|7|62
+Wronki|Dar El Kebdani|1900|400|9|143
+Wronki|Barendrecht|200|400|2|128
+Wronki|Vanadzor|900|1800|9|78
+Wronki|Saint-Gilles|2100|100|4|98
+Wronki|Tyldesley|600|1000|4|47
+Wronki|Guarda|500|1400|9|49
+Wronki|Dzerzhinsk|600|800|2|148
+Wronki|Český Těšín|2200|100|3|50
+Wronki|Zacháro|1800|300|9|89
+Wronki|Buguruslan|500|900|4|142
+Wronki|Ust’-Olenëk|1900|2100|2|49
+Wronki|Station des Essais M.V.A.|2100|600|9|80
+Wronki|Hlevakha|2200|700|9|138
+Wronki|Mannheim|1500|2300|8|129
+Wronki|Siniscola|1700|2000|3|30
+Wronki|Ringwood|1000|1300|3|112
+Wronki|Odivelas|100|600|5|58
+Wronki|Azzano|600|900|3|92
+Wronki|Broadstairs|2100|100|4|103
+Wronki|Lomma|1800|300|9|103
+Wronki|Sande|1500|2000|5|102
+Wronki|Impruneta|2000|500|9|101
+Wronki|Tonyrefail|1200|1400|2|149
+Wronki|Goldenstedt|400|600|2|78
+Wronki|Mühlacker|2100|600|9|46
+Wronki|Wezep|300|600|3|123
+Wronki|Gelves|500|800|3|62
+Wronki|Atkarsk|2100|200|5|67
+Wronki|Bad Breisig|1800|100|7|88
+Weilheim an der Teck|Cuesmes|1900|0|5|109
+Weilheim an der Teck|Malacky|1200|1400|2|36
+Weilheim an der Teck|Hemsworth|2200|0|2|110
+Weilheim an der Teck|Nadvirna|800|1500|7|123
+Weilheim an der Teck|Toftir|1900|100|6|135
+Weilheim an der Teck|Ugol’nyye Kopi|100|800|7|36
+Weilheim an der Teck|Villacarrillo|1300|1900|6|120
+Weilheim an der Teck|Dar El Kebdani|1200|1900|7|135
+Weilheim an der Teck|Barendrecht|2300|800|9|145
+Weilheim an der Teck|Vanadzor|500|1300|8|127
+Weilheim an der Teck|Tyldesley|200|400|2|94
+Weilheim an der Teck|Seevetal|1100|1600|5|48
+Weilheim an der Teck|Dzerzhinsk|0|900|9|40
+Weilheim an der Teck|Český Těšín|1800|2100|3|58
+Weilheim an der Teck|Ust’-Olenëk|700|1000|3|45
+Weilheim an der Teck|Mannheim|1800|2200|4|60
+Weilheim an der Teck|Siniscola|2300|400|5|46
+Weilheim an der Teck|Odivelas|600|1100|5|94
+Weilheim an der Teck|Saint Helens|1400|2200|8|71
+Weilheim an der Teck|Broadstairs|100|600|5|117
+Weilheim an der Teck|Havran|500|700|2|81
+Weilheim an der Teck|Sovicille|200|500|3|140
+Weilheim an der Teck|Saint Andrews|1400|2300|9|85
+Weilheim an der Teck|Neman|0|500|5|49
+Weilheim an der Teck|Borås|1500|2100|6|99
+Weilheim an der Teck|Lomma|600|1300|7|68
+Weilheim an der Teck|Sande|600|1100|5|112
+Weilheim an der Teck|Impruneta|2100|600|9|78
+Weilheim an der Teck|Kettering|500|800|3|66
+Weilheim an der Teck|Kinel’-Cherkassy|500|1300|8|45
+Weilheim an der Teck|Goldenstedt|2200|500|7|32
+Weilheim an der Teck|Mühlacker|200|700|5|81
+Weilheim an der Teck|Gelves|2000|300|7|64
+Weilheim an der Teck|Atkarsk|500|1200|7|127
+Weilheim an der Teck|Bad Breisig|1300|1800|5|136
+Saint Andrews|Trofarello|100|300|2|86
+Saint Andrews|Hemsworth|2000|2300|3|86
+Saint Andrews|Nadvirna|600|1500|9|97
+Saint Andrews|Toftir|1000|1400|4|105
+Saint Andrews|Ugol’nyye Kopi|800|1500|7|92
+Saint Andrews|Dar El Kebdani|1900|0|5|115
+Saint Andrews|Barendrecht|1100|1500|4|93
+Saint Andrews|Vanadzor|100|600|5|146
+Saint Andrews|Tyldesley|500|800|3|71
+Saint Andrews|Seevetal|100|900|8|41
+Saint Andrews|Guarda|1100|1400|3|36
+Saint Andrews|Dzerzhinsk|1400|2000|6|34
+Saint Andrews|Český Těšín|2300|500|6|44
+Saint Andrews|Zacháro|1700|200|9|146
+Saint Andrews|Buguruslan|100|900|8|65
+Saint Andrews|Ust’-Olenëk|1300|2200|9|145
+Saint Andrews|Station des Essais M.V.A.|2000|2200|2|93
+Saint Andrews|Hlevakha|1200|2100|9|94
+Saint Andrews|Siniscola|2100|600|9|32
+Saint Andrews|Nowy Sącz|700|1600|9|134
+Saint Andrews|Odivelas|1400|1800|4|124
+Saint Andrews|Azzano|500|1000|5|38
+Saint Andrews|Saint Helens|1200|1400|2|100
+Saint Andrews|Havran|1500|1800|3|111
+Saint Andrews|Sovicille|1000|1400|4|142
+Saint Andrews|Wronki|300|800|5|39
+Saint Andrews|Weilheim an der Teck|0|900|9|30
+Saint Andrews|Neman|1300|1600|3|120
+Saint Andrews|Sande|1200|1600|4|55
+Saint Andrews|Impruneta|0|500|5|37
+Saint Andrews|Kettering|1800|200|8|145
+Saint Andrews|Kinel’-Cherkassy|1500|1900|4|63
+Saint Andrews|Tonyrefail|1400|1800|4|73
+Saint Andrews|Goldenstedt|300|900|6|86
+Saint Andrews|Gelves|800|1100|3|66
+Saint Andrews|Atkarsk|1300|1700|4|61
+Neman|Trofarello|1100|1900|8|61
+Neman|Malacky|600|1000|4|145
+Neman|Hemsworth|900|1400|5|129
+Neman|Nadvirna|1000|1500|5|92
+Neman|Allschwil|2300|100|2|68
+Neman|Ugol’nyye Kopi|400|700|3|53
+Neman|Villacarrillo|100|1000|9|107
+Neman|Dar El Kebdani|1000|1600|6|105
+Neman|Vanadzor|2100|100|4|57
+Neman|Tyldesley|1800|2000|2|145
+Neman|Seevetal|400|800|4|35
+Neman|Dzerzhinsk|2100|200|5|84
+Neman|Český Těšín|500|1100|6|51
+Neman|Zacháro|1100|1700|6|137
+Neman|Buguruslan|1000|1600|6|73
+Neman|Ust’-Olenëk|1500|2300|8|125
+Neman|Station des Essais M.V.A.|400|800|4|131
+Neman|Hlevakha|0|300|3|130
+Neman|Nowy Sącz|1600|2100|5|142
+Neman|Odivelas|1300|2100|8|134
+Neman|Azzano|1600|2300|7|139
+Neman|Saint Helens|400|1100|7|115
+Neman|Sovicille|600|1100|5|133
+Neman|Wronki|1400|1700|3|57
+Neman|Weilheim an der Teck|700|1100|4|47
+Neman|Borås|1000|1600|6|54
+Neman|Lomma|0|500|5|57
+Neman|Sande|1800|2000|2|77
+Neman|Impruneta|1300|1700|4|122
+Neman|Kinel’-Cherkassy|300|800|5|83
+Neman|Tonyrefail|100|800|7|32
+Neman|Goldenstedt|2200|300|5|142
+Neman|Mühlacker|0|900|9|128
+Neman|Bad Breisig|300|600|3|69
+Borås|Cuesmes|400|700|3|101
+Borås|Hemsworth|300|1100|8|47
+Borås|Ugol’nyye Kopi|600|900|3|146
+Borås|Dar El Kebdani|700|1300|6|85
+Borås|Tyldesley|1100|1300|2|143
+Borås|Seevetal|1000|1200|2|136
+Borås|Dzerzhinsk|1300|1700|4|103
+Borås|Zacháro|900|1700|8|117
+Borås|Buguruslan|0|700|7|138
+Borås|Ust’-Olenëk|700|1100|4|33
+Borås|Station des Essais M.V.A.|1100|1500|4|148
+Borås|Hlevakha|200|900|7|79
+Borås|Mannheim|1000|1700|7|93
+Borås|Siniscola|1000|1800|8|91
+Borås|Nowy Sącz|1400|2200|8|42
+Borås|Ringwood|1300|2200|9|126
+Borås|Odivelas|700|1600|9|62
+Borås|Saint Helens|200|400|2|76
+Borås|Havran|1300|2200|9|37
+Borås|Wronki|0|200|2|98
+Borås|Weilheim an der Teck|700|1000|3|106
+Borås|Neman|100|600|5|117
+Borås|Lomma|2300|700|8|147
+Borås|Sande|100|600|5|101
+Borås|Kettering|200|600|4|100
+Borås|Tonyrefail|1900|2200|3|46
+Borås|Mühlacker|2200|500|7|149
+Borås|Gelves|2000|200|6|117
+Lomma|Cuesmes|1500|1900|4|87
+Lomma|Trofarello|1700|2100|4|62
+Lomma|Malacky|1100|1800|7|89
+Lomma|Hemsworth|1200|2100|9|72
+Lomma|Allschwil|400|900|5|116
+Lomma|Toftir|1700|2000|3|126
+Lomma|Ugol’nyye Kopi|300|1100|8|35
+Lomma|Villacarrillo|1900|0|5|80
+Lomma|Dar El Kebdani|0|400|4|132
+Lomma|Barendrecht|1000|1800|8|30
+Lomma|Vanadzor|2300|800|9|131
+Lomma|Tyldesley|700|1000|3|145
+Lomma|Seevetal|1700|200|9|86
+Lomma|Dzerzhinsk|1200|1500|3|101
+Lomma|Český Těšín|2000|2200|2|55
+Lomma|Buguruslan|1800|0|6|45
+Lomma|Station des Essais M.V.A.|2300|800|9|95
+Lomma|Hlevakha|1100|1300|2|46
+Lomma|Siniscola|2000|100|5|44
+Lomma|Ringwood|1200|1800|6|81
+Lomma|Odivelas|800|1700|9|146
+Lomma|Saint Helens|700|1500|8|89
+Lomma|Broadstairs|1800|0|6|146
+Lomma|Havran|1600|1900|3|93
+Lomma|Weilheim an der Teck|1500|2000|5|59
+Lomma|Saint Andrews|1000|1200|2|133
+Lomma|Sande|600|1200|6|67
+Lomma|Impruneta|600|1200|6|96
+Lomma|Tonyrefail|1100|1300|2|52
+Lomma|Goldenstedt|2300|600|7|147
+Lomma|Mühlacker|1400|2100|7|33
+Lomma|Wezep|2200|600|8|55
+Lomma|Gelves|1300|1700|4|79
+Lomma|Atkarsk|1900|400|9|42
+Lomma|Bad Breisig|0|400|4|76
+Sande|Cuesmes|1300|1900|6|98
+Sande|Trofarello|800|1300|5|100
+Sande|Hemsworth|2200|100|3|72
+Sande|Nadvirna|1100|1500|4|68
+Sande|Allschwil|1500|1900|4|44
+Sande|Ugol’nyye Kopi|2000|200|6|52
+Sande|Villacarrillo|600|1100|5|147
+Sande|Dar El Kebdani|900|1700|8|64
+Sande|Vanadzor|700|1400|7|101
+Sande|Saint-Gilles|1200|2000|8|128
+Sande|Tyldesley|1000|1300|3|104
+Sande|Seevetal|900|1100|2|118
+Sande|Guarda|1700|2100|4|38
+Sande|Český Těšín|700|1200|5|40
+Sande|Zacháro|500|800|3|68
+Sande|Buguruslan|300|600|3|56
+Sande|Ust’-Olenëk|300|1200|9|126
+Sande|Station des Essais M.V.A.|2200|500|7|145
+Sande|Siniscola|700|1400|7|42
+Sande|Odivelas|800|1600|8|54
+Sande|Azzano|0|800|8|59
+Sande|Saint Helens|0|400|4|68
+Sande|Broadstairs|1800|2200|4|32
+Sande|Havran|1900|0|5|130
+Sande|Sovicille|400|800|4|31
+Sande|Wronki|1400|2200|8|41
+Sande|Saint Andrews|500|900|4|31
+Sande|Neman|1300|1600|3|33
+Sande|Lomma|2000|300|7|112
+Sande|Impruneta|100|800|7|78
+Sande|Kettering|1400|1700|3|33
+Sande|Tonyrefail|400|1100|7|34
+Sande|Goldenstedt|1300|2000|7|83
+Sande|Mühlacker|1600|2000|4|111
+Sande|Gelves|1000|1800|8|144
+Impruneta|Cuesmes|1500|1800|3|128
+Impruneta|Malacky|1700|2200|5|112
+Impruneta|Hemsworth|1800|2000|2|147
+Impruneta|Nadvirna|1400|2300|9|108
+Impruneta|Allschwil|100|600|5|31
+Impruneta|Toftir|700|1500|8|74
+Impruneta|Ugol’nyye Kopi|1600|2300|7|32
+Impruneta|Barendrecht|1400|1900|5|104
+Impruneta|Vanadzor|300|600|3|79
+Impruneta|Saint-Gilles|2100|0|3|41
+Impruneta|Tyldesley|2100|200|5|124
+Impruneta|Seevetal|400|1300|9|81
+Impruneta|Guarda|700|1300|6|54
+Impruneta|Dzerzhinsk|900|1600|7|121
+Impruneta|Zacháro|1000|1900|9|39
+Impruneta|Buguruslan|1100|1600|5|143
+Impruneta|Ust’-Olenëk|1000|1700|7|144
+Impruneta|Mannheim|2300|500|6|137
+Impruneta|Siniscola|500|1000|5|111
+Impruneta|Nowy Sącz|1400|2200|8|68
+Impruneta|Ringwood|2200|500|7|74
+Impruneta|Azzano|1700|2000|3|71
+Impruneta|Saint Helens|1200|1400|2|39
+Impruneta|Havran|1100|1600|5|96
+Impruneta|Sovicille|1100|1400|3|73
+Impruneta|Wronki|200|700|5|106
+Impruneta|Saint Andrews|1100|1300|2|149
+Impruneta|Lomma|2000|2200|2|84
+Impruneta|Kettering|1500|1800|3|92
+Impruneta|Mühlacker|100|900|8|54
+Impruneta|Wezep|2300|100|2|128
+Impruneta|Gelves|400|800|4|77
+Kettering|Cuesmes|800|1300|5|34
+Kettering|Trofarello|1600|0|8|111
+Kettering|Malacky|100|700|6|141
+Kettering|Hemsworth|2100|2300|2|119
+Kettering|Dar El Kebdani|1000|1300|3|111
+Kettering|Barendrecht|1700|100|8|121
+Kettering|Vanadzor|1200|1600|4|141
+Kettering|Saint-Gilles|500|1000|5|114
+Kettering|Seevetal|300|1100|8|127
+Kettering|Guarda|1400|1900|5|40
+Kettering|Dzerzhinsk|200|700|5|133
+Kettering|Český Těšín|2200|200|4|84
+Kettering|Zacháro|400|700|3|42
+Kettering|Buguruslan|2000|0|4|123
+Kettering|Ust’-Olenëk|400|600|2|66
+Kettering|Station des Essais M.V.A.|500|1400|9|40
+Kettering|Mannheim|400|1300|9|68
+Kettering|Siniscola|2300|100|2|59
+Kettering|Nowy Sącz|800|1400|6|107
+Kettering|Ringwood|700|1200|5|43
+Kettering|Azzano|600|1200|6|61
+Kettering|Saint Helens|800|1700|9|37
+Kettering|Sovicille|1300|1800|5|63
+Kettering|Wronki|1600|2300|7|113
+Kettering|Saint Andrews|300|900|6|132
+Kettering|Neman|400|900|5|58
+Kettering|Borås|900|1300|4|49
+Kettering|Lomma|200|800|6|137
+Kettering|Sande|2200|100|3|57
+Kettering|Tonyrefail|2200|300|5|51
+Kettering|Mühlacker|1100|1800|7|69
+Kettering|Gelves|800|1600|8|145
+Kettering|Atkarsk|300|600|3|89
+Kettering|Bad Breisig|1400|1800|4|116
+Kinel’-Cherkassy|Cuesmes|1900|300|8|71
+Kinel’-Cherkassy|Malacky|100|500|4|97
+Kinel’-Cherkassy|Hemsworth|1900|2300|4|104
+Kinel’-Cherkassy|Nadvirna|700|1000|3|61
+Kinel’-Cherkassy|Allschwil|400|1100|7|48
+Kinel’-Cherkassy|Toftir|1500|2300|8|135
+Kinel’-Cherkassy|Villacarrillo|1100|1500|4|106
+Kinel’-Cherkassy|Dar El Kebdani|100|1000|9|37
+Kinel’-Cherkassy|Barendrecht|2200|100|3|77
+Kinel’-Cherkassy|Saint-Gilles|200|1000|8|82
+Kinel’-Cherkassy|Tyldesley|900|1400|5|110
+Kinel’-Cherkassy|Seevetal|2200|0|2|91
+Kinel’-Cherkassy|Guarda|100|400|3|109
+Kinel’-Cherkassy|Buguruslan|400|600|2|44
+Kinel’-Cherkassy|Station des Essais M.V.A.|500|800|3|124
+Kinel’-Cherkassy|Hlevakha|1200|1600|4|80
+Kinel’-Cherkassy|Siniscola|2200|600|8|88
+Kinel’-Cherkassy|Nowy Sącz|1700|2300|6|142
+Kinel’-Cherkassy|Ringwood|1300|2200|9|104
+Kinel’-Cherkassy|Odivelas|1700|2100|4|69
+Kinel’-Cherkassy|Azzano|800|1400|6|81
+Kinel’-Cherkassy|Saint Helens|600|1400|8|76
+Kinel’-Cherkassy|Sovicille|2000|2300|3|135
+Kinel’-Cherkassy|Wronki|1700|0|7|118
+Kinel’-Cherkassy|Weilheim an der Teck|600|1200|6|114
+Kinel’-Cherkassy|Neman|1800|200|8|105
+Kinel’-Cherkassy|Borås|1300|1600|3|34
+Kinel’-Cherkassy|Sande|2200|600|8|56
+Kinel’-Cherkassy|Impruneta|800|1300|5|58
+Kinel’-Cherkassy|Kettering|900|1200|3|50
+Kinel’-Cherkassy|Goldenstedt|1200|2100|9|141
+Kinel’-Cherkassy|Mühlacker|700|1000|3|80
+Kinel’-Cherkassy|Wezep|400|1300|9|44
+Kinel’-Cherkassy|Gelves|1800|2300|5|49
+Tonyrefail|Cuesmes|1600|1900|3|44
+Tonyrefail|Trofarello|1300|1700|4|122
+Tonyrefail|Hemsworth|500|1400|9|128
+Tonyrefail|Nadvirna|400|1100|7|108
+Tonyrefail|Allschwil|200|800|6|46
+Tonyrefail|Toftir|1900|2200|3|73
+Tonyrefail|Ugol’nyye Kopi|400|600|2|44
+Tonyrefail|Villacarrillo|500|1200|7|73
+Tonyrefail|Dar El Kebdani|1300|2200|9|48
+Tonyrefail|Barendrecht|1800|300|9|149
+Tonyrefail|Vanadzor|700|1200|5|118
+Tonyrefail|Saint-Gilles|400|1000|6|131
+Tonyrefail|Seevetal|700|1300|6|41
+Tonyrefail|Guarda|1900|2300|4|112
+Tonyrefail|Dzerzhinsk|800|1200|4|73
+Tonyrefail|Český Těšín|1100|1400|3|147
+Tonyrefail|Buguruslan|900|1300|4|112
+Tonyrefail|Ust’-Olenëk|1700|2100|4|68
+Tonyrefail|Hlevakha|2200|700|9|33
+Tonyrefail|Nowy Sącz|1600|2200|6|57
+Tonyrefail|Ringwood|100|300|2|42
+Tonyrefail|Odivelas|1900|300|8|149
+Tonyrefail|Azzano|2200|100|3|131
+Tonyrefail|Broadstairs|100|300|2|88
+Tonyrefail|Havran|1900|400|9|36
+Tonyrefail|Sovicille|800|1200|4|104
+Tonyrefail|Weilheim an der Teck|1200|2100|9|40
+Tonyrefail|Lomma|2300|400|5|126
+Tonyrefail|Kettering|800|1200|4|118
+Tonyrefail|Kinel’-Cherkassy|1500|0|9|85
+Tonyrefail|Goldenstedt|900|1300|4|99
+Tonyrefail|Wezep|900|1700|8|134
+Tonyrefail|Atkarsk|1600|2100|5|31
+Tonyrefail|Bad Breisig|1600|100|9|81
+Goldenstedt|Cuesmes|300|1100|8|34
+Goldenstedt|Hemsworth|100|300|2|59
+Goldenstedt|Nadvirna|2000|2200|2|145
+Goldenstedt|Toftir|300|1200|9|62
+Goldenstedt|Ugol’nyye Kopi|500|1100|6|33
+Goldenstedt|Dar El Kebdani|1900|0|5|87
+Goldenstedt|Barendrecht|900|1800|9|37
+Goldenstedt|Saint-Gilles|1700|200|9|36
+Goldenstedt|Tyldesley|1400|1700|3|71
+Goldenstedt|Seevetal|400|700|3|64
+Goldenstedt|Guarda|800|1000|2|70
+Goldenstedt|Dzerzhinsk|800|1100|3|144
+Goldenstedt|Český Těšín|2000|300|7|66
+Goldenstedt|Zacháro|300|1000|7|61
+Goldenstedt|Buguruslan|1800|0|6|133
+Goldenstedt|Ust’-Olenëk|300|700|4|105
+Goldenstedt|Hlevakha|300|700|4|128
+Goldenstedt|Nowy Sącz|600|1000|4|118
+Goldenstedt|Ringwood|1500|2300|8|144
+Goldenstedt|Azzano|500|700|2|57
+Goldenstedt|Saint Helens|500|700|2|115
+Goldenstedt|Broadstairs|1700|2200|5|52
+Goldenstedt|Havran|900|1800|9|52
+Goldenstedt|Saint Andrews|1800|100|7|91
+Goldenstedt|Borås|1300|1700|4|74
+Goldenstedt|Lomma|1000|1700|7|48
+Goldenstedt|Sande|2200|0|2|82
+Goldenstedt|Impruneta|1600|2100|5|41
+Goldenstedt|Kettering|1900|100|6|127
+Goldenstedt|Kinel’-Cherkassy|200|500|3|131
+Goldenstedt|Tonyrefail|2000|0|4|72
+Goldenstedt|Mühlacker|1600|2100|5|84
+Goldenstedt|Gelves|1500|1900|4|96
+Goldenstedt|Atkarsk|400|1300|9|131
+Mühlacker|Cuesmes|1700|2100|4|40
+Mühlacker|Trofarello|2300|100|2|76
+Mühlacker|Malacky|1300|2000|7|91
+Mühlacker|Hemsworth|1900|100|6|100
+Mühlacker|Nadvirna|1400|1800|4|33
+Mühlacker|Allschwil|2000|200|6|123
+Mühlacker|Toftir|1600|100|9|140
+Mühlacker|Ugol’nyye Kopi|100|600|5|142
+Mühlacker|Dar El Kebdani|2100|200|5|87
+Mühlacker|Barendrecht|1400|2300|9|118
+Mühlacker|Vanadzor|500|800|3|113
+Mühlacker|Saint-Gilles|900|1300|4|123
+Mühlacker|Seevetal|300|500|2|61
+Mühlacker|Guarda|1800|100|7|124
+Mühlacker|Český Těšín|2200|200|4|49
+Mühlacker|Zacháro|1900|0|5|141
+Mühlacker|Buguruslan|100|900|8|92
+Mühlacker|Station des Essais M.V.A.|800|1600|8|54
+Mühlacker|Hlevakha|600|900|3|90
+Mühlacker|Mannheim|1700|1900|2|102
+Mühlacker|Nowy Sącz|1000|1800|8|60
+Mühlacker|Ringwood|1700|0|7|114
+Mühlacker|Odivelas|1200|1500|3|80
+Mühlacker|Azzano|1300|2100|8|118
+Mühlacker|Saint Helens|600|1100|5|141
+Mühlacker|Broadstairs|500|1000|5|127
+Mühlacker|Havran|1200|2000|8|67
+Mühlacker|Sovicille|300|1100|8|77
+Mühlacker|Wronki|900|1800|9|53
+Mühlacker|Saint Andrews|700|1100|4|81
+Mühlacker|Neman|100|400|3|145
+Mühlacker|Borås|1300|1800|5|33
+Mühlacker|Lomma|900|1600|7|68
+Mühlacker|Kinel’-Cherkassy|2100|600|9|74
+Mühlacker|Goldenstedt|300|800|5|78
+Mühlacker|Gelves|2000|300|7|49
+Mühlacker|Atkarsk|1200|1800|6|92
+Mühlacker|Bad Breisig|2200|600|8|115
+Wezep|Cuesmes|500|1200|7|132
+Wezep|Trofarello|700|1500|8|64
+Wezep|Malacky|1100|2000|9|120
+Wezep|Hemsworth|1500|2100|6|31
+Wezep|Nadvirna|300|600|3|97
+Wezep|Allschwil|2100|0|3|49
+Wezep|Ugol’nyye Kopi|200|1100|9|47
+Wezep|Dar El Kebdani|1000|1900|9|68
+Wezep|Barendrecht|900|1700|8|118
+Wezep|Saint-Gilles|2100|300|6|40
+Wezep|Tyldesley|800|1000|2|145
+Wezep|Seevetal|2000|2200|2|72
+Wezep|Guarda|900|1500|6|123
+Wezep|Český Těšín|2300|500|6|70
+Wezep|Zacháro|2300|100|2|37
+Wezep|Buguruslan|2300|200|3|107
+Wezep|Station des Essais M.V.A.|800|1100|3|75
+Wezep|Siniscola|2000|500|9|95
+Wezep|Ringwood|700|1600|9|70
+Wezep|Azzano|100|800|7|54
+Wezep|Saint Helens|1700|200|9|144
+Wezep|Broadstairs|1600|100|9|135
+Wezep|Sovicille|100|300|2|122
+Wezep|Wronki|1600|2100|5|46
+Wezep|Weilheim an der Teck|1400|1600|2|108
+Wezep|Saint Andrews|1400|2300|9|78
+Wezep|Neman|700|1100|4|135
+Wezep|Borås|800|1300|5|120
+Wezep|Lomma|600|900|3|71
+Wezep|Sande|1500|1900|4|78
+Wezep|Goldenstedt|300|1100|8|66
+Wezep|Mühlacker|2300|400|5|39
+Wezep|Gelves|1400|1600|2|37
+Wezep|Atkarsk|700|1500|8|95
+Wezep|Bad Breisig|800|1700|9|32
+Gelves|Trofarello|700|1300|6|93
+Gelves|Allschwil|0|300|3|126
+Gelves|Ugol’nyye Kopi|2200|400|6|63
+Gelves|Villacarrillo|1600|2300|7|73
+Gelves|Barendrecht|300|800|5|142
+Gelves|Saint-Gilles|800|1400|6|79
+Gelves|Seevetal|2000|400|8|49
+Gelves|Český Těšín|100|900|8|55
+Gelves|Station des Essais M.V.A.|0|700|7|133
+Gelves|Hlevakha|1400|1700|3|38
+Gelves|Mannheim|2300|200|3|97
+Gelves|Nowy Sącz|1800|2100|3|148
+Gelves|Ringwood|500|1400|9|106
+Gelves|Odivelas|0|800|8|130
+Gelves|Azzano|1900|100|6|110
+Gelves|Saint Helens|100|700|6|99
+Gelves|Broadstairs|2200|300|5|80
+Gelves|Havran|100|500|4|51
+Gelves|Sovicille|2300|100|2|112
+Gelves|Wronki|1700|2200|5|67
+Gelves|Weilheim an der Teck|1600|100|9|47
+Gelves|Saint Andrews|1200|1500|3|54
+Gelves|Kinel’-Cherkassy|1900|2100|2|86
+Gelves|Tonyrefail|2000|200|6|127
+Gelves|Goldenstedt|0|600|6|75
+Gelves|Mühlacker|400|1000|6|81
+Gelves|Wezep|1900|400|9|109
+Gelves|Atkarsk|1700|100|8|44
+Gelves|Bad Breisig|1900|2100|2|148
+Atkarsk|Cuesmes|500|700|2|38
+Atkarsk|Hemsworth|1200|2000|8|140
+Atkarsk|Nadvirna|900|1100|2|39
+Atkarsk|Allschwil|2200|0|2|66
+Atkarsk|Toftir|2300|500|6|116
+Atkarsk|Ugol’nyye Kopi|200|400|2|111
+Atkarsk|Villacarrillo|2100|500|8|125
+Atkarsk|Dar El Kebdani|900|1600|7|128
+Atkarsk|Barendrecht|100|1000|9|36
+Atkarsk|Tyldesley|1600|1800|2|38
+Atkarsk|Guarda|1200|2100|9|98
+Atkarsk|Dzerzhinsk|0|600|6|120
+Atkarsk|Český Těšín|1400|1700|3|143
+Atkarsk|Zacháro|2300|500|6|40
+Atkarsk|Buguruslan|200|1100|9|67
+Atkarsk|Ust’-Olenëk|1900|400|9|93
+Atkarsk|Station des Essais M.V.A.|1300|1900|6|42
+Atkarsk|Nowy Sącz|2000|400|8|40
+Atkarsk|Ringwood|1600|2000|4|78
+Atkarsk|Odivelas|2300|100|2|129
+Atkarsk|Azzano|1300|1600|3|133
+Atkarsk|Saint Helens|2300|800|9|117
+Atkarsk|Sovicille|700|1500|8|121
+Atkarsk|Wronki|800|1600|8|32
+Atkarsk|Weilheim an der Teck|1500|1700|2|58
+Atkarsk|Saint Andrews|900|1800|9|46
+Atkarsk|Neman|1800|2100|3|61
+Atkarsk|Sande|1500|1900|4|107
+Atkarsk|Impruneta|1000|1600|6|75
+Atkarsk|Kinel’-Cherkassy|1000|1400|4|64
+Atkarsk|Tonyrefail|1700|2100|4|149
+Atkarsk|Goldenstedt|1400|2200|8|81
+Atkarsk|Mühlacker|200|900|7|60
+Atkarsk|Wezep|1700|200|9|53
+Atkarsk|Bad Breisig|2200|100|3|116
+Bad Breisig|Malacky|2200|300|5|91
+Bad Breisig|Hemsworth|1800|2200|4|41
+Bad Breisig|Toftir|1400|2200|8|60
+Bad Breisig|Ugol’nyye Kopi|1200|1500|3|118
+Bad Breisig|Dar El Kebdani|500|1100|6|140
+Bad Breisig|Barendrecht|1000|1900|9|35
+Bad Breisig|Vanadzor|1900|2300|4|82
+Bad Breisig|Saint-Gilles|2300|100|2|44
+Bad Breisig|Tyldesley|900|1800|9|127
+Bad Breisig|Guarda|600|1300|7|92
+Bad Breisig|Český Těšín|1900|2200|3|139
+Bad Breisig|Zacháro|100|900|8|113
+Bad Breisig|Buguruslan|300|500|2|147
+Bad Breisig|Station des Essais M.V.A.|1900|2200|3|66
+Bad Breisig|Hlevakha|2100|500|8|77
+Bad Breisig|Mannheim|1300|2100|8|103
+Bad Breisig|Siniscola|1200|1700|5|88
+Bad Breisig|Nowy Sącz|1500|1700|2|73
+Bad Breisig|Ringwood|1900|2100|2|82
+Bad Breisig|Odivelas|1400|2100|7|41
+Bad Breisig|Broadstairs|200|800|6|92
+Bad Breisig|Sovicille|2100|2300|2|83
+Bad Breisig|Wronki|800|1300|5|125
+Bad Breisig|Weilheim an der Teck|2200|600|8|61
+Bad Breisig|Saint Andrews|1600|1800|2|125
+Bad Breisig|Neman|500|1400|9|55
+Bad Breisig|Lomma|1500|1800|3|109
+Bad Breisig|Sande|1000|1700|7|132
+Bad Breisig|Impruneta|1100|1300|2|61
+Bad Breisig|Kettering|300|1000|7|81
+Bad Breisig|Kinel’-Cherkassy|1400|1600|2|39
+Bad Breisig|Tonyrefail|1600|2000|4|85
+Bad Breisig|Goldenstedt|1700|200|9|70
+Bad Breisig|Wezep|400|600|2|120
+Bad Breisig|Gelves|1200|2000|8|116
+Bad Breisig|Atkarsk|700|1200|5|46

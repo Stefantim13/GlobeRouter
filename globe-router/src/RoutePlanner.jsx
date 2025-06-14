@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import Cities from './Cities.json';
+import React, { useState, useEffect } from 'react';
 
 function RoutePlanner() {
   const [from, setFrom] = useState('');
@@ -15,6 +14,80 @@ function RoutePlanner() {
 
   const [sortOption, setSortOption] = useState('');
   const [savedRoutes, setSavedRoutes] = useState([]);
+
+  const [worldCities, setWorldCities] = useState([]);
+
+  useEffect(() => {
+    fetch('./worldcities.csv')
+      .then(res => res.text())
+      .then(text => {
+        console.log(text);
+        const lines = text.split('\n');
+        const header = lines[0].split(',');
+        console.log('Header:', header);
+        const cityIdx = header.indexOf('"city"');
+        console.log('City index:', cityIdx);
+        const cities = lines.slice(1).map(line => {
+          const cols = line.split(',');
+          return { city: cols[cityIdx].replace(/"/g, '').trim() };
+        }).filter(c => c.city);
+        setWorldCities(cities);
+      });
+  }, []);
+  console.log(worldCities);
+
+  const Cities = worldCities.map(city => ({
+    name: city.city
+  }));
+
+  console.log('Cities loaded:', Cities);
+
+  // Salvează ruta în baza de date
+  const saveRouteToServer = async (route) => {
+    const email = localStorage.getItem('email');
+    // Elimină changes din routeToSend
+    const { changes, ...routeWithoutChanges } = route;
+    const routeToSend = { ...routeWithoutChanges, path: Array.isArray(route.path) ? route.path.join('->') : route.path };
+    console.log('Route to send:', routeToSend);
+    try {
+      const res = await fetch('http://localhost:8080/save-route', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, route: routeToSend }),
+      });
+      const data = await res.json();
+      if (data.error) {
+        alert('Eroare la salvarea rutei: ' + data.error);
+      } else {
+        alert('Rută salvată cu succes!');
+      }
+    } catch (err) {
+      alert('Eroare la conectarea cu serverul.');
+    }
+  };
+
+  // Șterge ruta din baza de date
+  const deleteRouteFromServer = async (route) => {
+    const email = localStorage.getItem('email');
+    // Elimină changes din routeToSend
+    const { changes, ...routeWithoutChanges } = route;
+    const routeToSend = { ...routeWithoutChanges, path: Array.isArray(route.path) ? route.path.join('->') : route.path };
+    try {
+      const res = await fetch('http://localhost:8080/delete-route', {
+        method: 'DELETE',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, route: routeToSend }),
+      });
+      const data = await res.json();
+      if (data.error) {
+        alert('Eroare la ștergerea rutei: ' + data.error);
+      } else {
+        alert('Rută ștearsă cu succes!');
+      }
+    } catch (err) {
+      alert('Eroare la conectarea cu serverul.');
+    }
+  };
 
   const getTodayISO = () => {
     const today = new Date();
@@ -33,7 +106,7 @@ function RoutePlanner() {
     ).slice(0, 5);
   };
 
-  const handleSearch = () => {
+  const handleSearch = async () => {
     setFromError('');
     setToError('');
     setDateError('');
@@ -45,7 +118,7 @@ function RoutePlanner() {
       return;
     }
 
-    if(from === to){
+    if (from === to) {
       setGeneralError('Nu ai cum sa calatoresti in aceeasi locatie');
       return;
     }
@@ -67,40 +140,73 @@ function RoutePlanner() {
       return;
     }
 
-    let simulatedRoutes = [
-      { path: [from, 'Viena', to], price: 120, duration: 10, changes: 1 },
-      { path: [from, 'Berlin', 'Amsterdam', to], price: 200, duration: 7, changes: 2 },
-      { path: [from, 'Budapesta', 'Paris', to], price: 180, duration: 13, changes: 3 },
-      { path: [from, 'Praga', to], price: 90, duration: 9, changes: 1 },
-    ];
+    // Determină criteriul de sortare pentru backend
+    let by = "price";
+    if (sortOption === "duration-asc") by = "duration";
 
-    switch (sortOption) {
-      case 'price-asc':
-        simulatedRoutes.sort((a, b) => a.price - b.price);
-        break;
-      case 'duration-asc':
-        simulatedRoutes.sort((a, b) => a.duration - b.duration);
-        break;
-      default:
-        break;
+    try {
+      // Poți schimba nRoutes după nevoie (ex: 5)
+      const nRoutes = 5;
+      const res = await fetch('http://localhost:8080/api/best-route', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ from, to, by, n: nRoutes }),
+      });
+      const data = await res.json();
+      if (data.error) {
+        setGeneralError(data.error);
+        return;
+      }
+      // Suportă atât un array de rute cât și un singur obiect (retrocompatibil)
+      let routes = [];
+      if (Array.isArray(data.routes)) {
+        routes = data.routes;
+      } else if (data.routes) {
+        routes = [data.routes];
+      }
+      // Fiecare rută este deja un obiect cu path, price, duration, changes, etc.
+      const formattedRoutes = routes.map(routeObj => {
+        let pathArr = Array.isArray(routeObj.path)
+          ? routeObj.path
+          : (routeObj.path ? routeObj.path.split('->') : []);
+        // Numără săgețile (->) din path string pentru schimbări
+        let changes = 0;
+        if (typeof routeObj.path === "string") {
+          changes = (routeObj.path.match(/->/g) || []).length;
+        } else if (Array.isArray(routeObj.path)) {
+          changes = routeObj.path.length > 1 ? routeObj.path.length - 1 : 0;
+        }
+        return {
+          path: pathArr,
+          price: routeObj.price,
+          duration: (routeObj.arrival / 100 <= routeObj.departure / 100) ? (24 - (routeObj.departure - routeObj.arrival) / 100 ) : ((routeObj.arrival - routeObj.departure) / 100),
+          changes,
+          departure: String(routeObj.departure / 100) + ":00",
+          arrival: String(routeObj.arrival / 100) + ":00",
+          date: formatDate(travelDate),
+        };
+      });
+      setResults(formattedRoutes);
+    } catch (err) {
+      setGeneralError('Eroare la conectarea cu serverul.');
     }
-
-    simulatedRoutes = simulatedRoutes.map(route => ({
-      ...route,
-      date: formatDate(travelDate)
-    }));
-
-    setResults(simulatedRoutes);
   };
 
-  const toggleBookmark = (routeIndex) => {
-    setSavedRoutes((prev) => {
-      if (prev.includes(routeIndex)) {
-        return prev.filter((idx) => idx !== routeIndex);
-      } else {
-        return [...prev, routeIndex];
-      }
-    });
+  const toggleBookmark = async (routeIndex) => {
+    console.log("bookmark");
+    const isLoggedIn = !!localStorage.getItem('isLoggedIn');
+    if (!isLoggedIn) {
+      alert('Trebuie să fii autentificat pentru a salva o rută.');
+      return;
+    }
+    if (savedRoutes.includes(routeIndex)) {
+      await deleteRouteFromServer(results[routeIndex]);
+      setSavedRoutes((prev) => prev.filter((idx) => idx !== routeIndex));
+    } else {
+      console.log("ok");
+      await saveRouteToServer(results[routeIndex]);
+      setSavedRoutes((prev) => [...prev, routeIndex]);
+    }
   };
 
   return (
@@ -164,7 +270,7 @@ function RoutePlanner() {
           </ul>
         )}
         {toError && <p style={styles.error}>{toError}</p>}
-        <input 
+        <input
           type="date"
           value={travelDate}
           min={getTodayISO()}
@@ -200,10 +306,12 @@ function RoutePlanner() {
               >
                 {savedRoutes.includes(index) ? '★' : '☆'}
               </button>
-              <p style={{paddingRight: '2.5rem'}}><strong>Traseu:</strong> {route.path.join(' → ')}</p>
+              <p style={{ paddingRight: '2.5rem' }}><strong>Traseu:</strong> {(Array.isArray(route.path) ? route.path : route.path.split(',')).join(' → ')}</p>
               <p><strong>Preț:</strong> €{route.price}</p>
-              <p><strong>Durată:</strong> {route.duration} ore</p>
+              <p><strong>Timp transport:</strong> {route.duration} ore</p>
               <p><strong>Schimbări:</strong> {route.changes}</p>
+              <p><strong>Plecare:</strong> {route.departure}</p>
+              <p><strong>Sosire:</strong> {route.arrival}</p>
               <p><strong>Data:</strong> {route.date}</p>
               <hr />
             </div>
@@ -244,7 +352,7 @@ const styles = {
     border: '1px solid #ccc',
     borderRadius: '5px',
   },
-  
+
   suggestions: {
     listStyle: 'none',
     padding: 0,
@@ -289,8 +397,8 @@ const styles = {
     padding: '0.5rem 1rem',
     cursor: 'pointer',
     fontSize: '1.3rem',
-    backgroundColor: '#eee', 
-    color: '#888', 
+    backgroundColor: '#eee',
+    color: '#888',
     zIndex: 2,
   },
 };

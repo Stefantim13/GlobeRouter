@@ -1,12 +1,21 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 
-function SignUp() {
+function SignUp({ setIsLoggedIn, setUserEmail }) {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
     const [error, setError] = useState('');
     const [isSignedUp, setIsSignedUp] = useState(false);
+    const navigate = useNavigate();
 
-    const handleSignUp = (e) => {
+    useEffect(() => {
+      if (localStorage.getItem('isLoggedIn') === 'true') {
+        navigate('/');
+      }
+    }, [navigate]);
+
+
+    const handleSignUp = async (e) => {
         e.preventDefault();
         setError('');
         
@@ -40,7 +49,29 @@ function SignUp() {
             return;
         }
 
-        setIsSignedUp(true);
+        try {
+          const res = await fetch('http://localhost:8080/signup', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ email, password, confirmationPassword: password }),
+          });
+          console.log(res);
+          const data = await res.json();
+          if (data.error) {
+            setError(data.error);
+          } else {
+            setIsSignedUp(true);
+            if (setIsLoggedIn) setIsLoggedIn(true);
+            if (setUserEmail) setUserEmail(email);
+            localStorage.setItem('isLoggedIn', 'true');
+            localStorage.setItem('email', email);
+            
+            navigate('/');
+          }
+        } catch (err) {
+          console.log(err);
+          setError('Eroare in timpul înregistrării. Te rugăm să încerci din nou.');
+        }
 
   };
 
@@ -56,7 +87,7 @@ function SignUp() {
   return (
     <div style={styles.container}>
       <h1 style={styles.heading}>Register</h1>
-      <form style={styles.form}>
+      <form style={styles.form} onSubmit={handleSignUp}>
         <input
           type="email"
           placeholder="Email"
@@ -72,7 +103,7 @@ function SignUp() {
           style={styles.input}
         />
         {error && <p style={styles.error}>{error}</p>}
-        <button onClick={handleSignUp} type="submit" style={styles.button}>Sign Up</button>
+        <button type="submit" style={styles.button}>Sign Up</button>
       </form>
     </div>
   );

@@ -7,12 +7,20 @@ import SignUp from './SignUp';
 import MyRoutesPage from './MyRoutes';
 
 function App() {
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const [userEmail, setUserEmail] = useState('');
+  const [isLoggedIn, setIsLoggedIn] = useState(() => {
+    return localStorage.getItem('isLoggedIn') === 'true';
+  });
+
+  React.useEffect(() => {
+    localStorage.setItem('isLoggedIn', isLoggedIn ? 'true' : 'false');
+  }, [isLoggedIn]);
+  const [userEmail, setUserEmail] = useState(() => localStorage.getItem('email') || '');
 
   const handleLogout = () => {
     setIsLoggedIn(false);
     setUserEmail('');
+    localStorage.removeItem('isLoggedIn');
+    localStorage.removeItem('email');
   };
 
   return (
@@ -40,7 +48,7 @@ function App() {
         <Routes>
           <Route path="/" element={<RoutePlanner />} />
           <Route path="/login" element={<LoginPage setIsLoggedIn={setIsLoggedIn} setUserEmail={setUserEmail} />} />
-          <Route path="/signup" element={<SignUp />} />
+          <Route path="/signup" element={<SignUp setIsLoggedIn={setIsLoggedIn} setUserEmail={setUserEmail} />} />
           <Route
             path="/my-routes"
             element={isLoggedIn ? <MyRoutesPage email={userEmail} /> : <Navigate to="/login" />}
@@ -82,9 +90,9 @@ const styles = {
     borderRadius: '5px',
     border: 'none',
     cursor: 'pointer',
-    font: 'inherit',     
-    lineHeight: '1',       
-    display: 'inline-block',  
+    font: 'inherit',
+    lineHeight: '1',
+    display: 'inline-block',
   },
 };
 
